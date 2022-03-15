@@ -28,7 +28,7 @@ const CreateTask = () => {
     <div className='form'>
         <form onSubmit={submitForm} >
            <div data-testid="todo-1" className="form__control">
-            <input required value={state.task} onChange={handleChange} type="text" name='task' placeholder='Add a Task...' />    
+            <input  value={state.task} onChange={handleChange} type="text" name='task' placeholder='Add a Task...' />    
                </div> 
                <div className="form__control">
                  <input type="text" name='description' value={state.description} onChange={handleChange} placeholder='Description' />    

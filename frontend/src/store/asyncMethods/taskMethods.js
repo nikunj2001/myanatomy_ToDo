@@ -35,7 +35,7 @@ export const editTask=(taskData,id)=>{
     return async(dispatch)=>{
         dispatch({type:"SET_LOADER"});
         try {
-            const response = await axios.put(`http://127.0.0.1:5000/updateTaskDetails/${id}`,taskData);
+            const response = await axios.put(`/updateTaskDetails/${id}`,taskData);
             console.log(response);
             dispatch({type:"SET_TASK",payload:"update task"});
             dispatch({type:"CLOSE_LOADER"});

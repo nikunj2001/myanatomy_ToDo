@@ -11,18 +11,17 @@ const AllData = () => {
     const dispatch = useDispatch();
     const {task}=useSelector(state=>state.TaskReducer);
     useEffect(async()=>{
-        const response =await axios.get("http://127.0.0.1:5000/getTasks");
+        const response =await axios.get("/getTasks");
         setData(response.data.tasks);
     },[]);
     useEffect(async()=>{
         if(task){
-            const response =await axios.get("http://127.0.0.1:5000/getTasks");
+            const response =await axios.get("/getTasks");
             setData(response.data.tasks);
             dispatch({type:"UNSET_TASK"});
         }
     },[task]);
     const clickEdit=(task)=>{
-    // setEditTask(true);
     history.push({
         pathname:"/editTask",
         state:{task:task}

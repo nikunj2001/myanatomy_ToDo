@@ -55,33 +55,9 @@ const allTaskClick=(status)=>{
             {active==="All Task"?
                 <AllData/>:
                 <>
-                {console.log(active)}
                 <StatusData status={active} />  
                 </>
-
         }
-            {/* <div className="task-detail">
-                {
-                    !data.length>0?"No Task":
-                    <table border='1' cellPadding='5' cellSpacing='5' width="75%" >
-                        <tr>
-                           <th>Task</th>
-                           <th>Description </th>
-                           <th>Status</th>         
-                           <th>Change Status</th>         
-                        </tr>          
-                    {data.map(task=>(
-                        <tr>
-                            <td>{task.task}</td>
-                            <td>{task.description}</td>
-                            <td>{task.status}</td>
-                            <td><button onClick={clickEdit.bind(this,task)} className='btn' ><BsFillPenFill className='btns' /></button><button className='btn' onClick={deleteClick.bind(this,task)} ><BsTrash className='btns' /></button></td>
-                        </tr>
-                    ))
-            }
-                    </table>
-                }
-            </div> */}
         </div>
       </div>
   )

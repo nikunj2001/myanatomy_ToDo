@@ -12,7 +12,7 @@ const StatusData = ({status}) => {
     const dispatch = useDispatch();
     const {task}=useSelector(state=>state.TaskReducer);
     useEffect(async()=>{
-        const response =await axios.get(`http://127.0.0.1:5000/statusTask?status=${status}`);
+        const response =await axios.get(`/statusTask?status=${status}`);
         setData(response.data.tasks);
         console.log(response);
     },[]);
