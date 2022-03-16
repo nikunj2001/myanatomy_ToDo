@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const PORT = 5000;
-const userRoutes = require("./routes/userRoutes")
+const taskRoutes = require("./routes/taskRoutes")
 const bodyParser = require('body-parser');
 const connect = require('./config/db');
 const cors = require('cors');
@@ -14,7 +14,7 @@ const corsOptions ={
 connect();
 app.use(cors(corsOptions));
 app.use(bodyParser.json());
-app.use("/",userRoutes);
+app.use("/",taskRoutes);
 
 
 

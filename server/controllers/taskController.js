@@ -1,11 +1,13 @@
 const Tasks = require("../models/Tasks");
-
-module.exports.postTask=async(req,res)=>{
+const ErrorHandler = require("../utils/errorHandler");
+const  catchAsyncErrors= require("../middleware/catchAsyncErrors");
+module.exports.postTask=catchAsyncErrors(async(req,res,next)=>{
     console.log(req.body);
     const {task,description,status} = req.body;
     try {
         if(task===''){
-            return res.status(400).json({msg:"Title is required"});
+            console.log("Empty Task");
+            return next(new ErrorHandler("Please Enter a Task", 400));
         } 
             const task_todo = await Tasks.create({
                 _id:new Date(),task,description,status
@@ -13,16 +15,19 @@ module.exports.postTask=async(req,res)=>{
             console.log(task);
             return res.status(200).json({msg:"Task Created",task_todo});
     } catch (error) {
-            console.log(error);        
+             return next(new ErrorHandler(error.message, 500));
     }
-};
+});
 module.exports.getTasks=async(req,res)=>{
     try {
         const tasks = await Tasks.find();
         const data=tasks.reverse();
         return res.status(200).json({tasks:data});
     } catch (error) {
-        console.log(error);        
+
+        console.log(error);    
+        res.status(400).json({msg:error});
+        throw new Error("Something went Wrong");
     }
 }
 module.exports.updateTaskDetails=async(req,res)=>{
@@ -37,7 +42,9 @@ module.exports.updateTaskDetails=async(req,res)=>{
     });
         // return res.status(200).json({task});
     } catch (error) {
-        console.log(error);        
+        console.log(error);     
+        throw new Error("Something went Wrong");
+
     }
 }
 module.exports.deleteTask=async(req,res)=>{
@@ -51,7 +58,7 @@ module.exports.deleteTask=async(req,res)=>{
             res.status(200).json({msg:"Task Deleted"});
         })
     } catch (error) {
-        console.log(error);
+               throw new Error("Something went Wrong");
     }
 }
 module.exports.getStatusTask=async(req,res)=>{
@@ -62,6 +69,6 @@ module.exports.getStatusTask=async(req,res)=>{
         res.status(200).json({msg:"data found",tasks:data});
         }
      catch (error) {
-        console.log(error);
+        throw new Error("Something went Wrong");
     }
 }
