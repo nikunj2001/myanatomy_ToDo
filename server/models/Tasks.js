@@ -1,11 +1,5 @@
 const {model,Schema} = require("mongoose");
-
-
 const TaskSchema = new Schema({
-    _id:{
-        type:String,
-        required:true
-    },
     task:{
         type:String,
         required:true
@@ -17,7 +11,10 @@ const TaskSchema = new Schema({
     status:{
         type:String,
         required:true
+    },
+    createdAt:{
+        type:Date,
+        default:Date.now
     }
 });
-
 module.exports = model('task',TaskSchema);

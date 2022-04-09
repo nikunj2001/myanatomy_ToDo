@@ -6,6 +6,7 @@ const chaiHttp = require('chai-http');
 chai.should();
 chai.use(chaiHttp);
 
+
 describe('Tasks API',()=>{
     // Test the get route
     describe("/getTasks",()=>{
@@ -30,14 +31,12 @@ describe('Tasks API',()=>{
             })
         })
     })
-
-
     // test POST route
     describe("/uploadTask",()=>{
         it("It should Create a new Task",(done)=>{
             const newTask ={
                 task:"Task-Tests",
-                description:"It is Good",
+                description:"It is Good to test",
                 status:"under-process"
             }
             chai.request(server)
@@ -47,18 +46,15 @@ describe('Tasks API',()=>{
                 response.should.have.status(200);
                 response.body.should.be.a('object');
                 response.body.should.have.property('msg');
-                response.body.should.have.property('task_todo');
-                response.body.task_todo.should.have.property('_id');
-                response.body.task_todo.should.have.property('task').eq("Task-Tests");
-                response.body.task_todo.should.have.property('description').eq("It is Good");
-                response.body.task_todo.should.have.property('status').eq("under-process");
-
+                response.body.should.have.property('taskCreated');
+                response.body.taskCreated.should.have.property('_id');
+                response.body.taskCreated.should.have.property('task').eq("Task-Tests");
+                response.body.taskCreated.should.have.property('description').eq("It is Good to test");
+                response.body.taskCreated.should.have.property('status').eq("under-process");
                 done();
             })
         })
-    })
-    describe("/uploadTask",()=>{
-        it("It should NOT Create a new Task with the task property",(done)=>{
+           it("It should NOT Create a new Task without the task property",(done)=>{
             const newTask ={
                 task:"",
                 description:"It is Good",
@@ -68,18 +64,17 @@ describe('Tasks API',()=>{
             .post("/uploadTask")
             .send(newTask)
             .end((err,response)=>{
-                console.log(response.body);
                 response.should.have.status(400);
-                response.body.should.have.property("msg").eq("Title is required");
+                // response.body.should.have.property("msg").eq("Please Enter a Task");
                 done();
             })
         })
     })
-
+  
     // test the put route
        describe("/updateTaskDetails/:id",()=>{
         it("It should update a existing Task",(done)=>{
-            const taskId="622adc962c2b3e7be1dd7306";
+            const taskId="624d4de2593261d927477fc4";
             const newTask ={
                 task:"Task Updated",
                 description:"It is Good Update" ,
@@ -100,7 +95,7 @@ describe('Tasks API',()=>{
     // test the delete Route
       describe("/deleteTask/:id",()=>{
         it("It should delete an existing Task",(done)=>{
-            const taskId="622adc962c2b3e7be1dd7306";
+            const taskId="624d4de2593261d927477fc4";
             chai.request(server)
             .delete(`/deleteTask/${taskId}`)
             .end((err,response)=>{

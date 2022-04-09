@@ -3,20 +3,18 @@ import Home from './components/Home';
 import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
 import EditTask from './components/EditTask';
 import Nav from './components/Nav';
-import StatusData from './components/StatusData';
-import CreateTask from './components/CreateTask';
+import { Provider, useDispatch } from 'react-redux';
+import Store from './store';
 function App() {
+  const dispatch = useDispatch();
   return (
-    <>
-    <Nav/>
+    <Router>
+      <Nav/>
     <Switch>
-    <div className="App">
-      <Route path="/editTask" exact component={EditTask} />
-      <Route path="/" exact component={Home} />
-    </div>
+        <Route path="/editTask" exact component={EditTask} />
+        <Route path="/" exact component={Home} />
     </Switch>    
-    </>
+  </Router>
   );
 }
-
 export default App;

@@ -1,0 +1,135 @@
+info: Apr-08-2022 22:51:40 : 	Server running on Port 5000
+info: Apr-08-2022 22:52:01 : 	Server running on Port 5000
+info: Apr-08-2022 22:54:59 : 	Server running on Port 5000
+info: Apr-08-2022 22:54:59 : 	DB Connected
+info: Apr-08-2022 22:56:25 : 	Server running on Port 5000
+info: Apr-08-2022 22:56:25 : 	DB Connected
+info: Apr-08-2022 22:56:28 : 	Server running on Port 5000
+info: Apr-08-2022 22:56:28 : 	DB Connected
+info: Apr-08-2022 23:01:17 : 	Server running on Port 5000
+info: Apr-08-2022 23:01:17 : 	DB Connected
+info: Apr-08-2022 23:01:49 : 	Server running on Port 5000
+info: Apr-08-2022 23:01:49 : 	DB Connected
+error: Apr-08-2022 23:23:07 : 	Server running on Port 5000
+info: Apr-08-2022 23:23:07 : 	DB Connected
+info: Apr-08-2022 23:23:44 : 	Server running on Port 5000
+info: Apr-08-2022 23:23:44 : 	DB Connected
+info: Apr-08-2022 23:25:55 : 	Server running on Port 5000
+info: Apr-08-2022 23:25:55 : 	DB Connected
+info: Apr-08-2022 23:26:31 : 	Server running on Port 5000
+info: Apr-08-2022 23:26:31 : 	DB Connected
+info: Apr-08-2022 23:27:42 : 	Server running on Port 5000
+info: Apr-08-2022 23:27:42 : 	DB Connected
+info: Apr-08-2022 23:27:46 : 	45 Tasks Fetched
+info: Apr-08-2022 23:27:54 : 	Task Created with Task-1 
+info: Apr-08-2022 23:27:54 : 	46 Tasks Fetched
+info: Apr-08-2022 23:28:06 : 	Task DELETED with  ID- 625001c16ef28a2157b26365
+info: Apr-08-2022 23:28:06 : 	45 Tasks Fetched
+info: Apr-08-2022 23:28:15 : 	Task Updated with Task ID- 625077a266b462d1b35b842f
+info: Apr-08-2022 23:28:15 : 	45 Tasks Fetched
+info: Apr-08-2022 23:29:46 : 	Server running on Port 5000
+info: Apr-08-2022 23:29:46 : 	DB Connected
+info: Apr-08-2022 23:31:44 : 	Server running on Port 5000
+info: Apr-08-2022 23:31:44 : 	DB Connected
+info: Apr-08-2022 23:32:06 : 	Server running on Port 5000
+info: Apr-08-2022 23:32:06 : 	DB Connected
+info: Apr-08-2022 23:33:39 : 	Server running on Port 5000
+info: Apr-08-2022 23:33:39 : 	DB Connected
+info: Apr-08-2022 23:34:27 : 	Server running on Port 5000
+info: Apr-08-2022 23:34:37 : 	Server running on Port 5000
+info: Apr-08-2022 23:34:37 : 	DB Connected
+info: Apr-08-2022 23:37:54 : 	Server running on Port 5000
+info: Apr-08-2022 23:37:54 : 	DB Connected
+info: Apr-08-2022 23:38:25 : 	Task Updated with Task ID- 624d4de1593261d927477fbe
+error: Apr-08-2022 23:38:32 : 	Task not found with ID - 624d4de1593261d927477fba
+info: Apr-08-2022 23:45:11 : 	Server running on Port 5000
+info: Apr-08-2022 23:45:11 : 	DB Connected
+info: Apr-08-2022 23:45:14 : 	Server running on Port 5000
+info: Apr-08-2022 23:45:14 : 	DB Connected
+error: Apr-08-2022 23:46:05 : 	Task not found with ID - 624d4de1593261d927477fba
+info: Apr-08-2022 23:53:27 : 	Server running on Port 5000
+info: Apr-08-2022 23:53:27 : 	DB Connected
+info: Apr-08-2022 23:53:45 : 	45 Tasks Fetched
+info: Apr-08-2022 23:54:01 : 	Server running on Port 5000
+info: Apr-08-2022 23:54:01 : 	DB Connected
+info: Apr-08-2022 23:54:13 : 	45 Tasks Fetched
+info: Apr-08-2022 23:56:47 : 	Server running on Port 5000
+info: Apr-08-2022 23:56:48 : 	DB Connected
+info: Apr-08-2022 23:57:03 : 	Server running on Port 5000
+info: Apr-08-2022 23:57:04 : 	DB Connected
+
+info: Apr-08-2022 23:57:52 : 	Server running on Port 5000
+info: Apr-08-2022 23:57:52 : 	DB Connected
+info: Apr-08-2022 23:58:02 : 	Server running on Port 5000
+info: Apr-08-2022 23:58:02 : 	DB Connected
+info: Apr-08-2022 23:58:09 : 	Server running on Port 5000
+info: Apr-08-2022 23:58:10 : 	DB Connected
+info: Apr-08-2022 23:58:12 : 	Server running on Port 5000
+info: Apr-08-2022 23:58:12 : 	DB Connected
+info: Apr-08-2022 23:58:18 : 	Server running on Port 5000
+info: Apr-08-2022 23:58:18 : 	DB Connected
+info: Apr-08-2022 23:58:37 : 	Server running on Port 5000
+info: Apr-08-2022 23:58:37 : 	DB Connected
+info: Apr-08-2022 23:59:12 : 	Server running on Port 5000
+info: Apr-08-2022 23:59:12 : 	DB Connected
+info: Apr-08-2022 23:59:51 : 	Server running on Port 5000
+info: Apr-08-2022 23:59:52 : 	DB Connected
+info: Apr-08-2022 23:59:57 : 	Server running on Port 5000
+info: Apr-08-2022 23:59:57 : 	DB Connected
+
+info: Apr-09-2022 09:37:39 : 	Server running on Port 5000
+info: Apr-09-2022 09:37:39 : 	DB Connected
+info: Apr-09-2022 09:46:07 : 	45 Tasks Fetched
+info: Apr-09-2022 09:46:29 : 	Task DELETED with  ID- 625077a266b462d1b35b842f
+info: Apr-09-2022 09:46:29 : 	44 Tasks Fetched
+info: Apr-09-2022 09:47:08 : 	Task DELETED with  ID- 625001a26ef28a2157b26362
+info: Apr-09-2022 09:47:08 : 	43 Tasks Fetched
+info: Apr-09-2022 09:48:08 : 	Task DELETED with  ID- 624fca9b6ceb196711fc19d3
+info: Apr-09-2022 09:48:09 : 	42 Tasks Fetched
+info: Apr-09-2022 09:48:50 : 	Task Created with Task-123456 
+info: Apr-09-2022 09:48:50 : 	43 Tasks Fetched
+info: 2022-04-09T04:42:04.504Z : 	Server running on Port 5000
+info: 2022-04-09T04:42:04.560Z : 	DB Connected
+info: Apr-09-2022 10:12:41 : 	Server running on Port 5000
+info: Apr-09-2022 10:12:41 : 	DB Connected
+
+
+
+
+info: Apr-09-2022 10:15:31 : 	Server running on Port 5000
+info: Apr-09-2022 10:15:32 : 	DB Connected
+info: Apr-09-2022 10:15:34 : Server running on Port 5000
+info: Apr-09-2022 10:15:34 : DB Connected
+info: Apr-09-2022 10:15:53 : Task Created with asdada 
+info: Apr-09-2022 10:15:53 : 44 Tasks Fetched
+info: Apr-09-2022 10:16:14 : 	Server running on Port 5000
+info: Apr-09-2022 10:16:14 : 	DB Connected
+info: Apr-09-2022 10:20:42 : 	Server running on Port 5000
+info: Apr-09-2022 10:20:42 : 	DB Connected
+info: Apr-09-2022 10:35:59 : Server running on Port 5000
+info: Apr-09-2022 10:35:59 : DB Connected
+info: Apr-09-2022 10:42:01 : Server running on Port 5000
+info: Apr-09-2022 10:42:01 : DB Connected
+info: Apr-09-2022 10:42:57 : Server running on Port 5000
+info: Apr-09-2022 10:42:57 : DB Connected
+info: Apr-09-2022 10:43:19 : Server running on Port 5000
+info: Apr-09-2022 10:43:19 : DB Connected
+
+
+info: Apr-09-2022 10:44:53 : Server running on Port 5000
+info: Apr-09-2022 10:44:54 : DB Connected
+info: Apr-09-2022 10:50:31 : Server running on Port 5000
+info: Apr-09-2022 10:50:31 : DB Connected
+info: Apr-09-2022 10:51:28 : Server running on Port 5000
+info: Apr-09-2022 10:51:29 : DB Connected
+info: Apr-09-2022 10:51:43 : Server running on Port 5000
+info: Apr-09-2022 10:57:17 : Server running on Port 5000
+info: Apr-09-2022 10:58:12 : Server running on Port 5000
+info: Apr-09-2022 11:00:34 : Server running on Port 5000
+info: Apr-09-2022 11:01:53 : Server running on Port 5000
+
+info: Apr-09-2022 11:02:39 : Server running on Port 5000
+
+info: Apr-09-2022 11:03:25 : Server running on Port 5000
+info: Apr-09-2022 11:03:28 : Server running on Port 5000
+info: Apr-09-2022 11:03:28 : DB Connected

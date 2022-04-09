@@ -48,6 +48,7 @@ const deleteClick=(task)=>{
                             <td>{task.description}</td>
                             <td>{task.status}</td>
                             <td><button onClick={clickEdit.bind(this,task)} className='btn' ><BsFillPenFill className='btns' /></button><button className='btn' onClick={deleteClick.bind(this,task)} ><BsTrash className='btns' /></button></td>
+
                         </tr>
                     ))
                     }
@@ -58,4 +59,4 @@ const deleteClick=(task)=>{
   )
 }
 
-export default AllData
+export default AllData;

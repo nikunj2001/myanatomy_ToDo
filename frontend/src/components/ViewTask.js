@@ -6,61 +6,68 @@ import {BsFillPenFill,BsTrash} from "react-icons/bs";
 import {useHistory} from "react-router-dom";
 import StatusData from './StatusData';
 import AllData from './AllData';
+import AllDataC from './AllDataC';
 const ViewTask =() => {
     const [editTask,setEditTask] = useState(false);
     const [data,setData] = useState([]);
+    const dispatch = useDispatch();
     const [active,setActive] = useState("All Task");
     const history = useHistory();
-    const {task}=useSelector(state=>state.TaskReducer);
-const clickEdit=(task)=>{
-    setEditTask(true);
-    history.push({
-        pathname:"/editTask",
-        state:{task:task}
-    });
-}
-const completeClick=(status)=>{
-        setActive("completed")
-}
-const underProcessClick=(status)=>{
-        setActive("under-process")
-}
-const pendingClick=(status)=>{
-        setActive("pending")
-}
-const allTaskClick=(status)=>{
-        setActive("All Task")
-}
+    const {task,deleteT}=useSelector(state=>state.TaskReducer);
 
+useEffect(async()=>{
+    const res=await axios.get("/getTasks");
+    setData(res.data.tasks);
+},[]);
+useEffect(async()=>{
+    if(deleteT){
+        const res=await axios.get("/getTasks");
+        setData(res.data.tasks);
+        dispatch({type:"UNSET_DELETE"});
+        dispatch({type:"CLOSE_LOADER"});
+    }
+    if(task){
+        const res=await axios.get("/getTasks");
+        setData(res.data.tasks);
+        dispatch({type:"UNSET_TASK"});
+        dispatch({type:"CLOSE_LOADER"});
+    }
+},[deleteT,task]);
+
+
+const taskClick=(type)=>{
+    setActive(type)
+}
   return (
       <div className='tasks'>         
         <div className='task_heading' ><h1>Your Tasks</h1></div>
         <div className="task-details">
             <div className='tempNav' >
                 <ul className='nav-ul'>
-                    <li className={active==="All Task"?"active":""} onClick={allTaskClick} >
+                    <li className={active==="All Task"?"active":""} onClick={()=>taskClick("All Task")} >
                         All Task
                     </li>
-                    <li className={active==="pending"?"active":""} onClick={pendingClick} >
+                    <li className={active==="pending"?"active":""} onClick={()=>taskClick("pending")} >
                         Pending
                     </li>
-                    <li className={active==="under-process"?"active":""} onClick={underProcessClick} >
+                    <li className={active==="under-process"?"active":""} onClick={()=>taskClick("under-process")} >
                         Under Process
                     </li>
-                    <li className={active==="completed"?"active":""} onClick={completeClick}>
+                    <li className={active==="completed"?"active":""} onClick={()=>taskClick("completed")}>
                         Completed
                     </li>
                 </ul>
             </div>
             {active==="All Task"?
-                <AllData/>:
-                <>
-                <StatusData status={active} />  
-                </>
-        }
+                <AllDataC 
+                data={data}
+                 />:
+                <StatusData status={active}
+                 data={data} 
+                 />  
+            }
         </div>
       </div>
   )
 }
-
 export default ViewTask;

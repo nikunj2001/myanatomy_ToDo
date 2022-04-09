@@ -3,6 +3,7 @@ import { ReactPropTypes } from 'react';
 import {useDispatch, useSelector} from "react-redux";
 import { editTask } from '../store/asyncMethods/taskMethods';
 import { useHistory } from 'react-router-dom';
+import { Toaster,toast } from 'react-hot-toast';
 const EditTask = ({location}) => {
     const dispatch = useDispatch();
     const history = useHistory();
@@ -17,7 +18,10 @@ const EditTask = ({location}) => {
     }
     const updateForm=e=>{
         e.preventDefault();
-       dispatch(editTask(state, location.state.task._id));
+        if(state.task===""){
+            toast.error("Task is required!");
+        }
+       dispatch(editTask(state,location.state.task._id));
     }
     const statusChange=e=>{
         setState({...state,status:e.currentTarget.value});
@@ -31,8 +35,12 @@ const EditTask = ({location}) => {
   return (
     <div className='form'>
         <form onSubmit={updateForm} >
+                <Toaster
+                    position="top-center"
+                    reverseOrder={false}
+                />
            <div className="form__control">
-            <input required value={state.task} onChange={handleChange} type="text" name='task' placeholder='Add a Task...' />    
+            <input  value={state.task} onChange={handleChange} type="text" name='task' placeholder='Add a Task...' />    
                </div> 
                <div className="form__control">
                  <input type="text" name='description' value={state.description} onChange={handleChange} placeholder='Description' />    
@@ -51,5 +59,4 @@ const EditTask = ({location}) => {
     </div>
   )
 }
-
 export default EditTask;

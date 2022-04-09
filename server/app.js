@@ -1,24 +1,21 @@
 const express = require('express');
 const app = express();
-const PORT = 5000;
+require("dotenv").config();
+const PORT=process.env.PORT;
 const taskRoutes = require("./routes/taskRoutes")
 const bodyParser = require('body-parser');
 const connect = require('./config/db');
-const cors = require('cors');
-
-const corsOptions ={
-    origin:'http://localhost:3000', 
-    credentials:true,            //access-control-allow-credentials:true
-    optionSuccessStatus:200
-}
+const errorMiddleWare = require("./middleware/error");
+const logger = require("./config/logger")
 connect();
-app.use(cors(corsOptions));
-app.use(bodyParser.json());
+app.use(bodyParser());
 app.use("/",taskRoutes);
+app.use(errorMiddleWare);
 
-
-
-
-module.exports=app.listen(PORT,()=>{
-    console.log(`Listening on ${PORT} `);
-})
+if(!module.parent){
+ app.listen(process.env.PORT, () =>{ 
+    logger.info(`Server running on Port ${process.env.PORT}`);
+    console.log(`Server running on port ${process.env.PORT}!`);
+});
+}
+module.exports = app;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`has two components 1`] = `
+<div
+  className="nav"
+>
+  <ul>
+    <li>
+      To-Do List
+    </li>
+  </ul>
+</div>
+`;

@@ -2,6 +2,7 @@ import React from 'react'
 import { useState } from 'react';
 import {useDispatch} from "react-redux";
 import { createTask } from '../store/asyncMethods/taskMethods';
+import {Toaster,toast} from "react-hot-toast"
 const CreateTask = () => {
     const dispatch = useDispatch();
     const [state,setState] = useState({
@@ -14,12 +15,16 @@ const CreateTask = () => {
     }
     const submitForm=e=>{
         e.preventDefault();
+        if(state.task===''){
+            toast.error('Task is required!')
+        }else{
        dispatch(createTask(state));
        setState({
             task:'',
         description:'',
         status:'pending'
        })
+        }
     }
     const statusChange=e=>{
         setState({...state,status:e.currentTarget.value});
@@ -27,8 +32,12 @@ const CreateTask = () => {
   return (
     <div className='form'>
         <form onSubmit={submitForm} >
+            <Toaster
+                position="top-center"
+                reverseOrder={false}
+            />
            <div data-testid="todo-1" className="form__control">
-            <input  value={state.task} onChange={handleChange} type="text" name='task' placeholder='Add a Task...' />    
+            <input  value={state.task}  onChange={handleChange} type="text" name='task' placeholder='Add a Task...' />    
                </div> 
                <div className="form__control">
                  <input type="text" name='description' value={state.description} onChange={handleChange} placeholder='Description' />    

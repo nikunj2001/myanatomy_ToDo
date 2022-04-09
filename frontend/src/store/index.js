@@ -5,7 +5,8 @@ import TaskReducer from "./reducers/taskReducer";
 const rootReducers = combineReducers({
         TaskReducer
 });
-
 const middlewares = [thunkMiddleware];
-const Store = createStore(rootReducers,composeWithDevTools(applyMiddleware(...middlewares)));
+const Store = createStore(rootReducers,
+        composeWithDevTools(applyMiddleware(...middlewares))
+);
 export default Store;
