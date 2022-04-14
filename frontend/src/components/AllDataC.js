@@ -1,31 +1,34 @@
 import React, { Component } from 'react'
 import {withRouter} from "react-router-dom";
 import { connect } from 'react-redux';
-import { deleteTask,fetchTasks } from '../store/asyncMethods/taskMethods';
+import { deleteTask } from '../store/asyncMethods/taskMethods';
 import {BsFillPenFill,BsTrash} from "react-icons/bs";
-const mapStateToProps=(state)=>{
-  const {TaskReducer} = state;
-  const {loading,task,deleteT}=TaskReducer;
-  return{
-      loading,task,deleteT
-  }
-}
+// import {mapDispatchToProps,mapStateToProps} from "./AllData/props";
+import PropTypes from "prop-types";
+// const mapStateToProps=(state)=>{
+//   const {TaskReducer} = state;
+//   const {loading,task,deleteT}=TaskReducer;
+//   return{
+//       loading,task,deleteT
+//   }
+// }
 const mapDispatchToProps=(dispatch)=>{
   return{
     deleteTask:(id)=>dispatch(deleteTask(id)),
     unset:()=>dispatch({type:"UNSET_TASK"}),
     closeLoader:()=>dispatch({type:"CLOSE_LOADER"}),
     closeDelete:()=>dispatch({type:"UNSET_DELETE"}),
-    getTasks:()=>dispatch(fetchTasks())
+    // getTasks:()=>dispatch(fetchTasks())
   }
 }
  class AllDataC extends Component {
   constructor(props){
         super(props);
         this.state={
-          task:props.data
+          task:props.data,
         }
     }
+   
     static getDerivedStateFromProps(props,state){
       if(props.data.length!=state.task.length){
         return {
@@ -36,13 +39,14 @@ const mapDispatchToProps=(dispatch)=>{
     }
   render() {
     const {task}=this.state;
-    const clickEdit=(task)=>{
+    const   clickEdit=(task)=>{
       this.props.history.push({
         pathname:"/editTask",
         state:{task}
     });
 }
 const deleteClick=(task)=>{
+  console.log(task);
         this.props.deleteTask(task._id);
 }
     return (
@@ -64,9 +68,9 @@ const deleteClick=(task)=>{
                             <td>{t.description}</td>
                             <td>{t.status}</td>
                             <td>
-                              <button onClick={clickEdit.bind(this,t)} className='btn' ><BsFillPenFill className='btns' />
+                              <button onClick={()=>clickEdit(t)} className='btn' id='edit-btn'  ><BsFillPenFill className='btns' />
                               </button>
-                              <button className='btn' onClick={deleteClick.bind(this,t)} ><BsTrash className='btns' /></button></td>
+                              <button className='btn' onClick={deleteClick.bind(this,t)} id='delete-btn' ><BsTrash className='btns' /></button></td>
                         </tr>
                     ))
                     }
@@ -78,4 +82,22 @@ const deleteClick=(task)=>{
     )
   }
 }
-export default withRouter(connect(mapStateToProps,mapDispatchToProps)(AllDataC));
+
+AllDataC.propTypes = {
+    deleteTask:PropTypes.func.isRequired,
+    unset:PropTypes.func.isRequired,
+    closeLoader:PropTypes.func.isRequired,
+    closeDelete:PropTypes.func.isRequired,
+    loading:PropTypes.bool.isRequired,
+    task:PropTypes.string.isRequired,
+    deleteT:PropTypes.string.isRequired,
+}
+
+AllDataC.defaultProps = {
+  deleteTask: () => {},
+  unset: () => {},
+  closeLoader: () => {},
+  closeDelete: () => {}
+}
+const ReduxApp = connect(null,mapDispatchToProps)(AllDataC)
+export default withRouter(ReduxApp);

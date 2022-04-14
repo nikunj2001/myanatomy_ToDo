@@ -1,14 +1,16 @@
 import React from 'react'
 import { useState } from 'react';
-import {useDispatch} from "react-redux";
+import {useDispatch, useSelector} from "react-redux";
 import { createTask } from '../store/asyncMethods/taskMethods';
 import {Toaster,toast} from "react-hot-toast"
+import Store from "../store/"
 const CreateTask = () => {
     const dispatch = useDispatch();
+    const {user} = useSelector(state=>state.AuthReducer);
     const [state,setState] = useState({
         task:'',
         description:'',
-        status:'pending'
+        status:'pending',
     });
     const handleChange=e=>{
         setState({...state,[e.target.name]:e.target.value});
@@ -18,11 +20,11 @@ const CreateTask = () => {
         if(state.task===''){
             toast.error('Task is required!')
         }else{
-       dispatch(createTask(state));
+       Store.dispatch(createTask(state,user._id));
        setState({
             task:'',
         description:'',
-        status:'pending'
+        status:'pending',
        })
         }
     }

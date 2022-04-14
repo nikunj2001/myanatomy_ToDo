@@ -1,25 +1,23 @@
-import React from "react";
-import renderer from "react-test-renderer";
-import {render} from "@testing-library/react";
-import Home from "./Home";
-import {Provider} from "react-redux";
-import configureStore from "redux-mock-store";
-import App from "../App"
-import CreateTask from "./CreateTask";
-import EditTask from "./EditTask";
+import React from 'react';
+import { shallow,configure} from "enzyme";
+import Enzyme from 'enzyme';
+import Adapter from "@wojtekmaj/enzyme-adapter-react-17"
+import AllDataC from "./AllDataC";
 
-describe("with React Teting Library",()=>{
-    // const mockStore = configureStore();
-    // let store;
-    // it('has two components', () => {
-    // store = mockStore();
-    // const { task } = render(
-    //         <Provider store={store}>
-    //             <App />
-    //         </Provider>
-    //     );
-  const tree = renderer.create(<Home/>).toJSON();
-  expect(tree).toMatchSnapshot();
-});
+Enzyme.configure({adapter: new Adapter()})
 
+describe("AllDataC",()=>{
+  it("should render my component", () => {
+    const wrapper = shallow(<AllDataC />);
+    const tree = wrapper.debug();
+    expect(tree).toMatchSnapshot();
+  });
 
+  it("button click test",()=>{
+    const wrapper = shallow(<AllDataC/>);
+    const instance = wrapper.instance();
+    jest.spyOn(instance,'clickEdit');
+     wrapper.find('#edit-btn').simulate('click')
+    expect(instance.clickEdit).toHaveBeenCalledTimes(1);    
+    });
+})

@@ -4,8 +4,14 @@
   background-color: black;
   color: #fff;
   display: flex;
-  justify-content: center;
+  justify-content:space-between;
+  align-items:center;
+}
+ul{
+  display: flex;
   align-items: center;
+  justify-content: space-between;
+  list-style: none;
 }
 .nav ul li {
   list-style: none;
@@ -109,4 +115,11 @@ td {
 }
 .active {
   background: blue;
+}
+a {
+  text-decoration: none;
+  color: #fff;
+  margin: 15px;
+  /* font-size: 20px; */
+  cursor: pointer;
 }

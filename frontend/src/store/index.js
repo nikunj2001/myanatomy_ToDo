@@ -2,8 +2,9 @@ import {createStore,combineReducers,applyMiddleware} from "redux";
 import thunkMiddleware from "redux-thunk";
 import {composeWithDevTools} from "redux-devtools-extension";
 import TaskReducer from "./reducers/taskReducer";
+import AuthReducer from "./reducers/AuthReducer";
 const rootReducers = combineReducers({
-        TaskReducer
+        TaskReducer,AuthReducer
 });
 const middlewares = [thunkMiddleware];
 const Store = createStore(rootReducers,

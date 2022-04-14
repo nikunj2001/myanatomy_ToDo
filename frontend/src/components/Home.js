@@ -5,10 +5,10 @@ import ViewTask from './ViewTask';
 
 const Home = () => {
   return (
-    <>
+    <div>
         <CreateTask/>
         <ViewTask/>
-    </>
+    </div>
   )
 }
 

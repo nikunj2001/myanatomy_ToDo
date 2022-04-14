@@ -133,5 +133,1634 @@ info: Apr-09-2022 11:02:39 : Server running on Port 5000
 info: Apr-09-2022 11:03:25 : Server running on Port 5000
 info: Apr-09-2022 11:03:28 : Server running on Port 5000
 info: Apr-09-2022 11:03:28 : DB Connected
+<<<<<<< Updated upstream
 info: Apr-09-2022 14:18:29 : Server running on Port 5000
 info: Apr-09-2022 14:18:29 : DB Connected
+=======
+info: Apr-09-2022 14:27:37 : Server running on Port 5000
+info: Apr-09-2022 14:27:37 : DB Connected
+info: Apr-09-2022 14:44:08 : Server running on Port 5000
+info: Apr-09-2022 14:44:08 : DB Connected
+info: Apr-09-2022 14:44:22 : Server running on Port 5000
+info: Apr-09-2022 14:44:22 : DB Connected
+info: Apr-09-2022 14:49:33 : Server running on Port 5000
+info: Apr-09-2022 14:49:34 : DB Connected
+info: Apr-09-2022 14:52:22 : Server running on Port 5000
+info: Apr-09-2022 14:52:22 : DB Connected
+info: Apr-09-2022 14:56:13 : Server running on Port 5000
+info: Apr-09-2022 14:56:13 : DB Connected
+info: Apr-09-2022 14:58:32 : Server running on Port 5000
+info: Apr-09-2022 14:58:32 : DB Connected
+info: Apr-09-2022 14:59:44 : Server running on Port 5000
+info: Apr-09-2022 14:59:44 : DB Connected
+info: Apr-09-2022 14:59:52 : Server running on Port 5000
+info: Apr-09-2022 14:59:52 : DB Connected
+info: Apr-09-2022 15:00:38 : Task Created with asdadas 
+info: Apr-09-2022 15:01:35 : Server running on Port 5000
+info: Apr-09-2022 15:01:35 : DB Connected
+info: Apr-09-2022 15:01:44 : Server running on Port 5000
+info: Apr-09-2022 15:01:44 : DB Connected
+info: Apr-09-2022 15:01:59 : Task Created with asdadas 
+info: Apr-09-2022 15:08:58 : Task Created with asdadas 
+info: Apr-09-2022 15:09:09 : Task Created with asdadas 
+info: Apr-09-2022 15:17:55 : Server running on Port 5000
+info: Apr-09-2022 15:17:55 : DB Connected
+info: Apr-09-2022 15:19:34 : Server running on Port 5000
+info: Apr-09-2022 15:19:34 : DB Connected
+info: Apr-09-2022 15:20:51 : Task Created with asdadas 
+info: Apr-09-2022 15:22:44 : Server running on Port 5000
+info: Apr-09-2022 15:22:44 : DB Connected
+info: Apr-09-2022 15:43:03 : Server running on Port 5000
+info: Apr-09-2022 15:43:03 : DB Connected
+info: Apr-09-2022 16:19:42 : Server running on Port 5000
+info: Apr-09-2022 16:19:42 : DB Connected
+info: Apr-09-2022 16:20:14 : Server running on Port 5000
+info: Apr-09-2022 16:20:14 : DB Connected
+info: Apr-09-2022 16:20:46 : Task DELETED with  ID- 625156fae0efee9d321ddeaa
+info: Apr-09-2022 16:21:34 : Server running on Port 5000
+info: Apr-09-2022 16:21:34 : DB Connected
+
+info: Apr-09-2022 16:21:50 : Server running on Port 5000
+info: Apr-09-2022 16:21:50 : DB Connected
+
+info: Apr-09-2022 16:27:50 : Server running on Port 5000
+info: Apr-09-2022 16:27:50 : DB Connected
+info: Apr-09-2022 16:28:20 : Server running on Port 5000
+info: Apr-09-2022 16:28:20 : DB Connected
+info: Apr-09-2022 16:28:23 : Server running on Port 5000
+info: Apr-09-2022 16:28:23 : DB Connected
+info: Apr-09-2022 16:28:30 : Server running on Port 5000
+info: Apr-09-2022 16:28:30 : DB Connected
+info: Apr-09-2022 16:28:48 : Server running on Port 5000
+info: Apr-09-2022 16:28:48 : DB Connected
+info: Apr-09-2022 16:29:09 : Server running on Port 5000
+info: Apr-09-2022 16:29:09 : DB Connected
+info: Apr-09-2022 16:29:31 : Server running on Port 5000
+info: Apr-09-2022 16:29:31 : DB Connected
+
+info: Apr-09-2022 16:33:30 : Server running on Port 5000
+info: Apr-09-2022 16:33:30 : DB Connected
+info: Apr-09-2022 16:33:44 : Server running on Port 5000
+info: Apr-09-2022 16:33:44 : DB Connected
+info: Apr-09-2022 16:34:14 : Server running on Port 5000
+info: Apr-09-2022 16:34:14 : DB Connected
+info: Apr-09-2022 16:34:31 : Task Created with asdadas 
+info: Apr-09-2022 16:35:12 : Task DELETED with  ID- 6251683ffc72c6b86346cba1
+
+info: Apr-09-2022 16:36:13 : Server running on Port 5000
+info: Apr-09-2022 16:36:13 : DB Connected
+info: Apr-09-2022 16:43:55 : Server running on Port 5000
+info: Apr-09-2022 16:43:55 : DB Connected
+info: Apr-09-2022 16:44:53 : Server running on Port 5000
+info: Apr-09-2022 16:44:53 : DB Connected
+info: Apr-09-2022 16:44:59 : Server running on Port 5000
+info: Apr-09-2022 16:44:59 : DB Connected
+info: Apr-09-2022 16:45:10 : Server running on Port 5000
+
+info: Apr-09-2022 16:46:06 : Server running on Port 5000
+
+info: Apr-09-2022 16:47:39 : Server running on Port 5000
+info: Apr-09-2022 16:48:07 : Server running on Port 5000
+
+info: Apr-09-2022 16:48:54 : Server running on Port 5000
+info: Apr-09-2022 16:49:01 : Server running on Port 5000
+
+info: Apr-09-2022 16:51:36 : Server running on Port 5000
+info: Apr-09-2022 16:51:47 : Server running on Port 5000
+info: Apr-09-2022 16:51:47 : DB Connected
+info: Apr-09-2022 16:52:52 : Server running on Port 5000
+info: Apr-09-2022 16:52:52 : DB Connected
+info: Apr-09-2022 16:53:04 : 48 Tasks Fetched
+info: Apr-09-2022 16:53:16 : Server running on Port 5000
+info: Apr-09-2022 16:53:16 : DB Connected
+info: Apr-09-2022 16:53:20 : 48 Tasks Fetched
+info: Apr-09-2022 16:54:45 : Server running on Port 5000
+info: Apr-09-2022 16:54:45 : DB Connected
+info: Apr-09-2022 16:55:43 : Server running on Port 5000
+info: Apr-09-2022 16:55:43 : DB Connected
+info: Apr-09-2022 16:56:21 : Server running on Port 5000
+info: Apr-09-2022 16:56:21 : DB Connected
+info: Apr-09-2022 16:56:46 : Server running on Port 5000
+info: Apr-09-2022 16:56:46 : DB Connected
+info: Apr-09-2022 16:57:36 : Server running on Port 5000
+info: Apr-09-2022 16:57:36 : DB Connected
+info: Apr-09-2022 16:58:34 : Server running on Port 5000
+info: Apr-09-2022 16:58:34 : DB Connected
+info: Apr-09-2022 16:58:40 : Server running on Port 5000
+info: Apr-09-2022 16:58:40 : DB Connected
+info: Apr-09-2022 16:58:49 : Server running on Port 5000
+info: Apr-09-2022 16:58:49 : DB Connected
+info: Apr-09-2022 17:00:25 : Server running on Port 5000
+info: Apr-09-2022 17:00:25 : DB Connected
+info: Apr-09-2022 17:02:08 : Server running on Port 5000
+info: Apr-09-2022 17:02:08 : DB Connected
+
+
+info: Apr-09-2022 17:02:18 : Server running on Port 5000
+info: Apr-09-2022 17:02:18 : DB Connected
+info: Apr-09-2022 17:07:21 : Task Created with asdadas 
+info: Apr-09-2022 17:08:12 : Task Created with 1 
+info: Apr-09-2022 17:08:12 : 50 Tasks Fetched
+info: Apr-09-2022 17:09:01 : Server running on Port 5000
+info: Apr-09-2022 17:09:02 : DB Connected
+info: Apr-09-2022 17:09:06 : Task Created with 2 
+info: Apr-09-2022 17:09:06 : 51 Tasks Fetched
+info: Apr-09-2022 18:15:53 : 51 Tasks Fetched
+info: Apr-09-2022 18:16:06 : 51 Tasks Fetched
+info: Apr-09-2022 18:17:00 : 51 Tasks Fetched
+info: Apr-09-2022 18:17:21 : Task DELETED with  ID- 6251543de3a87bb155ba5a1e
+info: Apr-09-2022 18:17:22 : 50 Tasks Fetched
+info: Apr-09-2022 18:17:50 : Server running on Port 5000
+info: Apr-09-2022 18:17:50 : DB Connected
+info: Apr-09-2022 18:18:24 : Server running on Port 5000
+info: Apr-09-2022 18:18:24 : DB Connected
+
+
+info: Apr-09-2022 18:18:53 : Server running on Port 5000
+info: Apr-09-2022 18:18:53 : DB Connected
+
+
+
+
+info: Apr-09-2022 18:19:38 : Server running on Port 5000
+info: Apr-09-2022 18:19:38 : DB Connected
+info: Apr-09-2022 18:19:44 : Server running on Port 5000
+info: Apr-09-2022 18:19:44 : DB Connected
+info: Apr-09-2022 18:19:45 : Task DELETED with  ID- 62515432e3a87bb155ba5a1c
+info: Apr-09-2022 18:19:45 : 49 Tasks Fetched
+info: Apr-09-2022 18:19:52 : Server running on Port 5000
+info: Apr-09-2022 18:19:52 : DB Connected
+info: Apr-09-2022 18:20:34 : Server running on Port 5000
+info: Apr-09-2022 18:20:34 : DB Connected
+info: Apr-09-2022 18:20:34 : Task DELETED with  ID- 62516ff1e70fc8df398e7848
+info: Apr-09-2022 18:20:35 : 48 Tasks Fetched
+info: Apr-09-2022 18:20:48 : Task DELETED with  ID- 6251523e45a33b7b74055465
+info: Apr-09-2022 18:20:48 : 47 Tasks Fetched
+info: Apr-09-2022 18:20:55 : Server running on Port 5000
+info: Apr-09-2022 18:20:55 : DB Connected
+info: Apr-09-2022 18:20:56 : Task DELETED with  ID- 62510f813d5739707fd68f09
+info: Apr-09-2022 18:20:56 : 46 Tasks Fetched
+info: Apr-09-2022 18:21:06 : Server running on Port 5000
+info: Apr-09-2022 18:21:06 : DB Connected
+info: Apr-09-2022 18:21:06 : Task DELETED with  ID- 6251528fe3a87bb155ba5a1a
+info: Apr-09-2022 18:21:06 : 45 Tasks Fetched
+info: Apr-09-2022 18:21:46 : Server running on Port 5000
+info: Apr-09-2022 18:21:46 : DB Connected
+info: Apr-09-2022 18:21:50 : Server running on Port 5000
+info: Apr-09-2022 18:21:50 : DB Connected
+info: Apr-09-2022 18:21:56 : Task DELETED with  ID- 6250019b6ef28a2157b2635f
+info: Apr-09-2022 18:21:56 : 44 Tasks Fetched
+info: Apr-09-2022 18:22:00 : Task DELETED with  ID- 6251092a61e9e8020c03c50b
+info: Apr-09-2022 18:22:01 : 43 Tasks Fetched
+info: Apr-09-2022 18:23:09 : 43 Tasks Fetched
+info: Apr-09-2022 18:23:20 : 43 Tasks Fetched
+info: Apr-09-2022 18:23:22 : Task DELETED with  ID- 624fcf2bf7ac77ace0a7d967
+info: Apr-09-2022 18:23:22 : 42 Tasks Fetched
+info: Apr-09-2022 18:23:25 : Task DELETED with  ID- 624fca956ceb196711fc19d0
+info: Apr-09-2022 18:23:25 : 41 Tasks Fetched
+info: Apr-09-2022 18:27:40 : Server running on Port 5000
+info: Apr-09-2022 18:27:41 : DB Connected
+info: Apr-09-2022 18:27:49 : Server running on Port 5000
+info: Apr-09-2022 18:27:49 : DB Connected
+info: Apr-09-2022 18:28:44 : Server running on Port 5000
+info: Apr-09-2022 18:28:44 : DB Connected
+info: Apr-09-2022 18:29:05 : Task Created with asd 
+info: Apr-09-2022 18:29:41 : Task Created with asd 
+info: Apr-09-2022 18:30:31 : Server running on Port 5000
+info: Apr-09-2022 18:30:31 : DB Connected
+info: Apr-09-2022 18:31:21 : Server running on Port 5000
+info: Apr-09-2022 18:31:21 : DB Connected
+info: Apr-09-2022 18:31:29 : Task Created with 1 
+info: Apr-09-2022 18:46:43 : Server running on Port 5000
+info: Apr-09-2022 18:46:43 : DB Connected
+info: Apr-09-2022 18:46:44 : Task Created with 1 
+info: Apr-09-2022 18:47:36 : Task Created with &lt;h1&#x2F;&gt; 
+info: Apr-09-2022 18:48:37 : Server running on Port 5000
+info: Apr-09-2022 18:48:37 : DB Connected
+info: Apr-09-2022 18:48:55 : Server running on Port 5000
+info: Apr-09-2022 18:48:55 : DB Connected
+info: Apr-09-2022 18:51:19 : Server running on Port 5000
+info: Apr-09-2022 18:51:19 : DB Connected
+info: Apr-09-2022 18:51:40 : Task Updated with Task ID- 6251876f725fabe7003c954f while Updating
+info: Apr-09-2022 18:56:06 : Server running on Port 5000
+info: Apr-09-2022 18:56:06 : DB Connected
+info: Apr-09-2022 18:56:09 : Task Updated with Task ID- 6251876f725fabe7003c954f while Updating
+info: Apr-09-2022 18:56:17 : Server running on Port 5000
+info: Apr-09-2022 18:56:17 : DB Connected
+info: Apr-09-2022 18:56:39 : Task Updated with Task ID- 6251876f725fabe7003c954f while Updating
+info: Apr-09-2022 18:59:43 : Server running on Port 5000
+info: Apr-09-2022 18:59:43 : DB Connected
+info: Apr-09-2022 19:00:10 : Server running on Port 5000
+info: Apr-09-2022 19:00:10 : DB Connected
+info: Apr-09-2022 19:00:18 : Task DELETED with  ID- 6251876f725fabe7003c954f
+
+
+
+
+
+
+info: Apr-09-2022 19:01:33 : Server running on Port 5000
+info: Apr-09-2022 19:01:33 : DB Connected
+info: Apr-09-2022 19:01:55 : Task DELETED with  ID- 624d4de0593261d927477fbb
+
+
+info: Apr-09-2022 19:02:34 : Server running on Port 5000
+info: Apr-09-2022 19:02:34 : DB Connected
+info: Apr-09-2022 19:02:51 : Task DELETED with  ID- 624d4de1593261d927477fbe
+info: Apr-09-2022 19:03:05 : Server running on Port 5000
+info: Apr-09-2022 19:03:05 : DB Connected
+info: Apr-09-2022 19:25:28 : Server running on Port 5000
+info: Apr-09-2022 19:25:28 : DB Connected
+info: Apr-09-2022 19:25:38 : Server running on Port 5000
+info: Apr-09-2022 19:25:38 : DB Connected
+info: Apr-09-2022 19:25:48 : 43 Tasks Fetched
+info: Apr-09-2022 19:25:52 : Task Created with asdadasdasd 
+info: Apr-09-2022 19:25:52 : 44 Tasks Fetched
+info: Apr-09-2022 19:25:58 : Server running on Port 5000
+info: Apr-09-2022 19:25:58 : DB Connected
+info: Apr-11-2022 14:49:52 : DB Connected
+info: Apr-11-2022 14:49:52 : 44 Tasks Fetched
+info: Apr-11-2022 14:49:52 : Task Created with Task-Tests 
+info: Apr-11-2022 14:50:25 : Server running on Port 5000
+info: Apr-11-2022 14:50:25 : DB Connected
+info: Apr-11-2022 14:51:00 : 45 Tasks Fetched
+info: Apr-11-2022 14:51:53 : DB Connected
+info: Apr-11-2022 14:51:53 : 45 Tasks Fetched
+info: Apr-11-2022 14:51:54 : Task Created with Task-Tests 
+info: Apr-11-2022 14:53:14 : Server running on Port 5000
+info: Apr-11-2022 14:53:14 : DB Connected
+info: Apr-11-2022 14:53:17 : DB Connected
+info: Apr-11-2022 14:53:17 : 46 Tasks Fetched
+info: Apr-11-2022 14:53:18 : Task Created with Task-Tests 
+
+
+info: Apr-11-2022 14:54:03 : Server running on Port 5000
+info: Apr-11-2022 14:54:03 : DB Connected
+info: Apr-11-2022 14:54:10 : DB Connected
+info: Apr-11-2022 14:54:10 : 47 Tasks Fetched
+info: Apr-11-2022 14:54:10 : Task Created with Task-Tests 
+info: Apr-11-2022 14:54:10 : Task Updated with Task ID- 624d4de0593261d927477fb8 while Updating
+
+
+info: Apr-11-2022 14:54:27 : Server running on Port 5000
+info: Apr-11-2022 14:54:27 : DB Connected
+info: Apr-11-2022 14:54:30 : DB Connected
+info: Apr-11-2022 14:54:30 : 48 Tasks Fetched
+info: Apr-11-2022 14:54:30 : Task Created with Task-Tests 
+info: Apr-11-2022 14:54:30 : Task Updated with Task ID- 624d4de0593261d927477fb8 while Updating
+info: Apr-11-2022 14:54:31 : Task DELETED with  ID- 624d4de1593261d927477fc1
+info: Apr-11-2022 14:54:48 : DB Connected
+info: Apr-11-2022 14:54:48 : 48 Tasks Fetched
+info: Apr-11-2022 14:54:48 : Task Created with Task-Tests 
+info: Apr-11-2022 14:54:48 : Task Updated with Task ID- 624d4de0593261d927477fb8 while Updating
+
+
+info: Apr-11-2022 15:35:07 : Server running on Port 5000
+info: Apr-11-2022 15:35:07 : DB Connected
+info: Apr-11-2022 15:35:21 : 49 Tasks Fetched
+info: Apr-11-2022 15:35:21 : 49 Tasks Fetched
+info: Apr-11-2022 15:35:27 : Task DELETED with  ID- 6253f3e0b9cde6e2e7255611
+info: Apr-11-2022 15:35:27 : 48 Tasks Fetched
+info: Apr-11-2022 15:35:28 : Task DELETED with  ID- 6253f3ce1917ec4b5790a975
+info: Apr-11-2022 15:35:28 : 47 Tasks Fetched
+info: Apr-11-2022 15:35:29 : Task DELETED with  ID- 6253f3ba78e82749d9e77cd6
+info: Apr-11-2022 15:35:30 : 46 Tasks Fetched
+info: Apr-11-2022 15:35:31 : Task DELETED with  ID- 6253f3860b78db7c583a5fb6
+info: Apr-11-2022 15:35:31 : 45 Tasks Fetched
+info: Apr-11-2022 15:35:32 : Task DELETED with  ID- 6253f331493e11cdaa4ec967
+info: Apr-11-2022 15:35:32 : 44 Tasks Fetched
+info: Apr-11-2022 15:35:33 : Task DELETED with  ID- 6253f2b8eab02530b848f24c
+info: Apr-11-2022 15:35:33 : 43 Tasks Fetched
+info: Apr-11-2022 16:18:23 : Server running on Port 5000
+info: Apr-11-2022 16:18:23 : DB Connected
+info: Apr-11-2022 16:18:35 : 43 Tasks Fetched
+info: Apr-11-2022 16:18:35 : 43 Tasks Fetched
+info: Apr-11-2022 16:18:36 : 43 Tasks Fetched
+info: Apr-11-2022 16:19:28 : Task Created with Task-1 
+info: Apr-11-2022 16:19:28 : 44 Tasks Fetched
+info: Apr-11-2022 16:19:34 : Task Updated with Task ID- 625407b84919e5395ab25fde while Updating
+info: Apr-11-2022 16:19:35 : 44 Tasks Fetched
+info: Apr-11-2022 16:19:39 : Task DELETED with  ID- 625407b84919e5395ab25fde
+info: Apr-11-2022 16:19:39 : 43 Tasks Fetched
+info: Apr-11-2022 19:51:09 : Server running on Port 5000
+info: Apr-11-2022 19:51:09 : DB Connected
+info: Apr-11-2022 19:52:31 : 43 Tasks Fetched
+info: Apr-11-2022 19:55:17 : 43 Tasks Fetched
+info: Apr-11-2022 19:58:54 : 43 Tasks Fetched
+info: Apr-11-2022 19:59:01 : 43 Tasks Fetched
+info: Apr-11-2022 19:59:12 : Task DELETED with  ID- 625183a9b6dc26afb222a2d5
+
+
+info: Apr-11-2022 19:59:29 : Task DELETED with  ID- 6251873c725fabe7003c954d
+info: Apr-11-2022 19:59:34 : Task DELETED with  ID- 6251833df3902f51486e23c9
+info: Apr-11-2022 19:59:37 : 40 Tasks Fetched
+info: Apr-11-2022 19:59:46 : 40 Tasks Fetched
+info: Apr-11-2022 19:59:54 : Task DELETED with  ID- 62519068e1d4b6519c737c31
+
+
+
+
+
+
+
+
+
+
+
+
+info: Apr-11-2022 20:00:02 : Task Created with fddfs 
+info: Apr-11-2022 20:00:38 : 40 Tasks Fetched
+info: Apr-11-2022 20:00:38 : 40 Tasks Fetched
+info: Apr-11-2022 20:00:38 : 40 Tasks Fetched
+info: Apr-11-2022 20:00:38 : 40 Tasks Fetched
+info: Apr-11-2022 20:00:41 : Task DELETED with  ID- 62543b6ad633d75245ba3ea5
+info: Apr-11-2022 20:00:41 : 39 Tasks Fetched
+info: Apr-11-2022 20:00:42 : Task DELETED with  ID- 62518319f3902f51486e23c7
+info: Apr-11-2022 20:00:42 : 38 Tasks Fetched
+info: Apr-11-2022 20:00:45 : Task Created with asasdasdas 
+info: Apr-11-2022 20:00:46 : 39 Tasks Fetched
+info: Apr-11-2022 20:00:51 : Task Created with j 
+info: Apr-11-2022 20:00:52 : 40 Tasks Fetched
+info: Apr-11-2022 20:06:54 : 40 Tasks Fetched
+info: Apr-11-2022 23:12:39 : 40 Tasks Fetched
+info: Apr-11-2022 23:12:45 : Task Created with Task-5 
+info: Apr-11-2022 23:12:45 : 41 Tasks Fetched
+info: Apr-11-2022 23:12:53 : Task Updated with Task ID- 62546895d633d75245ba3eb7 while Updating
+info: Apr-11-2022 23:12:53 : 41 Tasks Fetched
+info: Apr-11-2022 23:13:16 : Task DELETED with  ID- 62546895d633d75245ba3eb7
+info: Apr-11-2022 23:13:16 : 40 Tasks Fetched
+info: Apr-11-2022 23:13:17 : Task DELETED with  ID- 62543b9bd633d75245ba3eb2
+info: Apr-11-2022 23:13:18 : 39 Tasks Fetched
+info: Apr-11-2022 23:13:18 : Task DELETED with  ID- 62543b95d633d75245ba3eaf
+info: Apr-11-2022 23:13:18 : 38 Tasks Fetched
+info: Apr-11-2022 23:13:19 : Task DELETED with  ID- 6251705a47a6ab8fde096b7e
+info: Apr-11-2022 23:13:19 : 37 Tasks Fetched
+info: Apr-11-2022 23:13:20 : Task DELETED with  ID- 62517024e70fc8df398e784a
+info: Apr-11-2022 23:13:20 : 36 Tasks Fetched
+
+
+info: Apr-11-2022 23:13:20 : Task DELETED with  ID- 624fe914e7f0b091c3e8483d
+info: Apr-11-2022 23:13:21 : 35 Tasks Fetched
+
+
+info: Apr-11-2022 23:13:21 : Task DELETED with  ID- 624fca31b309427797376d0d
+info: Apr-11-2022 23:13:21 : 34 Tasks Fetched
+
+
+info: Apr-11-2022 23:13:22 : Task DELETED with  ID- 624fc98721120a27630dcdad
+info: Apr-11-2022 23:13:22 : 33 Tasks Fetched
+
+
+info: Apr-11-2022 23:13:22 : Task DELETED with  ID- 624fc751e40dd68e9c1b2dea
+info: Apr-11-2022 23:13:22 : 32 Tasks Fetched
+
+
+info: Apr-11-2022 23:14:09 : Task Created with Task-5 
+info: Apr-11-2022 23:14:10 : 33 Tasks Fetched
+info: Apr-11-2022 23:14:13 : Task DELETED with  ID- 624ef8d85b67de6cd1f005aa
+info: Apr-11-2022 23:14:14 : 32 Tasks Fetched
+info: Apr-11-2022 23:14:14 : Task DELETED with  ID- 624ef8c67d88606140d1207a
+info: Apr-11-2022 23:14:15 : 31 Tasks Fetched
+info: Apr-11-2022 23:14:15 : Task DELETED with  ID- 624ef8aa2ccd69c044666914
+info: Apr-11-2022 23:14:16 : 30 Tasks Fetched
+info: Apr-11-2022 23:14:16 : Task DELETED with  ID- 624ef888717fdb05f2e3ab51
+info: Apr-11-2022 23:14:16 : 29 Tasks Fetched
+info: Apr-11-2022 23:14:17 : Task DELETED with  ID- 624ef7244656aaebef243591
+info: Apr-11-2022 23:14:17 : 28 Tasks Fetched
+info: Apr-11-2022 23:14:18 : Task DELETED with  ID- 624ef7161e312d34759d8929
+info: Apr-11-2022 23:14:18 : 27 Tasks Fetched
+info: Apr-11-2022 23:14:18 : Task DELETED with  ID- 624ef646a0abc4083cff39c7
+info: Apr-11-2022 23:14:19 : 26 Tasks Fetched
+info: Apr-11-2022 23:14:19 : Task DELETED with  ID- 624ef4e5ff33000d80ecc8f9
+info: Apr-11-2022 23:14:20 : 25 Tasks Fetched
+info: Apr-11-2022 23:14:20 : Task DELETED with  ID- 624ef484ff33000d80ecc8f5
+info: Apr-11-2022 23:14:20 : 24 Tasks Fetched
+info: Apr-11-2022 23:14:21 : Task DELETED with  ID- 624ed2b5e2474a2b286aea0e
+info: Apr-11-2022 23:14:21 : 23 Tasks Fetched
+info: Apr-11-2022 23:14:22 : Task DELETED with  ID- 624eb66d3711a4be37c8231d
+info: Apr-11-2022 23:14:22 : 22 Tasks Fetched
+info: Apr-11-2022 23:14:23 : Task DELETED with  ID- 624eb66a3711a4be37c8231a
+info: Apr-11-2022 23:14:23 : 21 Tasks Fetched
+info: Apr-11-2022 23:14:24 : Task DELETED with  ID- 624e58d8acade0fbfa34c7db
+info: Apr-11-2022 23:14:24 : 20 Tasks Fetched
+info: Apr-11-2022 23:14:24 : Task DELETED with  ID- 624e58acacade0fbfa34c7d5
+info: Apr-11-2022 23:14:25 : 19 Tasks Fetched
+info: Apr-11-2022 23:14:27 : Task DELETED with  ID- 624e589aacade0fbfa34c7d0
+info: Apr-11-2022 23:14:27 : 18 Tasks Fetched
+info: Apr-11-2022 23:14:27 : Task DELETED with  ID- 625468e9d633d75245ba3ed4
+info: Apr-11-2022 23:14:28 : 17 Tasks Fetched
+info: Apr-11-2022 23:14:30 : Task DELETED with  ID- 624e55b7acade0fbfa34c79c
+info: Apr-11-2022 23:14:30 : 16 Tasks Fetched
+info: Apr-11-2022 23:14:31 : Task DELETED with  ID- 624e55baacade0fbfa34c79f
+info: Apr-11-2022 23:14:31 : 15 Tasks Fetched
+info: Apr-11-2022 23:14:32 : Task DELETED with  ID- 624e55bdacade0fbfa34c7a2
+info: Apr-11-2022 23:14:32 : 14 Tasks Fetched
+info: Apr-11-2022 23:14:34 : Task DELETED with  ID- 624dd328acade0fbfa34c784
+info: Apr-11-2022 23:14:34 : 13 Tasks Fetched
+info: Apr-11-2022 23:14:36 : Task DELETED with  ID- 624e5305acade0fbfa34c790
+info: Apr-11-2022 23:14:36 : 12 Tasks Fetched
+info: Apr-11-2022 23:14:38 : Task DELETED with  ID- 624dcf2a54c70e0c44b75b22
+info: Apr-11-2022 23:14:38 : 11 Tasks Fetched
+info: Apr-11-2022 23:14:39 : Task DELETED with  ID- 624e55b4acade0fbfa34c799
+info: Apr-11-2022 23:14:39 : 10 Tasks Fetched
+info: Apr-11-2022 23:14:40 : Task DELETED with  ID- 624e56deacade0fbfa34c7a9
+info: Apr-11-2022 23:14:40 : 9 Tasks Fetched
+info: Apr-11-2022 23:14:40 : Task DELETED with  ID- 624e580eacade0fbfa34c7b8
+info: Apr-11-2022 23:14:41 : 8 Tasks Fetched
+info: Apr-11-2022 23:14:42 : 8 Tasks Fetched
+info: Apr-11-2022 23:14:44 : Task DELETED with  ID- 624d4deb593261d927477fd3
+info: Apr-11-2022 23:14:45 : 7 Tasks Fetched
+info: Apr-11-2022 23:14:45 : Task DELETED with  ID- 624d4deb593261d927477fd0
+info: Apr-11-2022 23:14:46 : 6 Tasks Fetched
+info: Apr-11-2022 23:14:48 : Task DELETED with  ID- 624da5be0c7fda1d80a156b4
+info: Apr-11-2022 23:14:48 : 5 Tasks Fetched
+info: Apr-11-2022 23:14:49 : Task DELETED with  ID- 624da51f0c7fda1d80a156aa
+info: Apr-11-2022 23:14:50 : 4 Tasks Fetched
+info: Apr-11-2022 23:14:50 : Task DELETED with  ID- 624d4de8593261d927477fcd
+info: Apr-11-2022 23:14:51 : 3 Tasks Fetched
+info: Apr-11-2022 23:14:52 : Task DELETED with  ID- 624e5833acade0fbfa34c7bb
+info: Apr-11-2022 23:14:52 : 2 Tasks Fetched
+info: Apr-11-2022 23:14:53 : Task DELETED with  ID- 624e5891acade0fbfa34c7c7
+info: Apr-11-2022 23:14:53 : 1 Tasks Fetched
+info: Apr-11-2022 23:14:53 : Task DELETED with  ID- 624d4de0593261d927477fb8
+info: Apr-11-2022 23:14:54 : 0 Tasks Fetched
+info: Apr-11-2022 23:14:56 : Task Created with Task-5 
+info: Apr-11-2022 23:14:56 : 1 Tasks Fetched
+info: Apr-11-2022 23:14:59 : Task Created with task-6 
+info: Apr-11-2022 23:14:59 : 2 Tasks Fetched
+info: Apr-11-2022 23:15:02 : Task Created with tasj-1 
+info: Apr-11-2022 23:15:03 : 3 Tasks Fetched
+info: Apr-11-2022 23:15:06 : Task Created with dadasd 
+info: Apr-11-2022 23:15:07 : 4 Tasks Fetched
+info: Apr-11-2022 23:15:11 : Task Created with Task-4 
+info: Apr-11-2022 23:15:11 : 5 Tasks Fetched
+info: Apr-11-2022 23:29:50 : 5 Tasks Fetched
+info: Apr-11-2022 23:30:03 : 5 Tasks Fetched
+info: Apr-11-2022 23:30:09 : Task Created with hbjn 
+info: Apr-11-2022 23:30:10 : 6 Tasks Fetched
+info: Apr-11-2022 23:30:11 : Task Created with jnmk 
+info: Apr-11-2022 23:30:12 : 7 Tasks Fetched
+info: Apr-11-2022 23:30:13 : Task Created with jnkm 
+info: Apr-11-2022 23:30:14 : 8 Tasks Fetched
+info: Apr-11-2022 23:30:14 : Task Created with njkm, 
+info: Apr-11-2022 23:30:15 : 9 Tasks Fetched
+info: Apr-11-2022 23:30:15 : Task Created with nkml 
+info: Apr-11-2022 23:30:16 : 10 Tasks Fetched
+info: Apr-11-2022 23:30:20 : Task DELETED with  ID- 62546cadd633d75245ba3f31
+info: Apr-11-2022 23:30:21 : 9 Tasks Fetched
+info: Apr-11-2022 23:30:22 : Task DELETED with  ID- 62546cabd633d75245ba3f2e
+
+
+
+
+
+
+
+
+info: Apr-11-2022 23:30:23 : 8 Tasks Fetched
+
+
+
+
+info: Apr-11-2022 23:30:26 : Task DELETED with  ID- 62546caed633d75245ba3f34
+
+
+info: Apr-11-2022 23:30:27 : 7 Tasks Fetched
+
+
+info: Apr-11-2022 23:30:29 : Task DELETED with  ID- 62546ca9d633d75245ba3f2b
+info: Apr-11-2022 23:30:30 : 6 Tasks Fetched
+
+
+info: Apr-11-2022 23:30:31 : Task DELETED with  ID- 62546927d633d75245ba3f26
+info: Apr-11-2022 23:30:32 : 5 Tasks Fetched
+
+
+info: Apr-11-2022 23:30:34 : Task DELETED with  ID- 62546922d633d75245ba3f23
+info: Apr-11-2022 23:30:35 : 4 Tasks Fetched
+info: Apr-11-2022 23:30:37 : Task DELETED with  ID- 62546cafd633d75245ba3f37
+info: Apr-11-2022 23:30:37 : 3 Tasks Fetched
+info: Apr-11-2022 23:30:40 : Task DELETED with  ID- 6254691bd633d75245ba3f1d
+info: Apr-11-2022 23:30:41 : 2 Tasks Fetched
+info: Apr-11-2022 23:30:47 : Task DELETED with  ID- 62546918d633d75245ba3f1a
+info: Apr-11-2022 23:30:47 : 1 Tasks Fetched
+info: Apr-11-2022 23:30:50 : Task DELETED with  ID- 6254691ed633d75245ba3f20
+info: Apr-11-2022 23:30:50 : 0 Tasks Fetched
+info: Apr-12-2022 08:20:55 : 0 Tasks Fetched
+info: Apr-12-2022 08:37:03 : Server running on Port 5000
+info: Apr-12-2022 08:37:03 : DB Connected
+info: Apr-12-2022 08:38:04 : Server running on Port 5000
+info: Apr-12-2022 08:38:04 : DB Connected
+info: Apr-12-2022 08:38:14 : Server running on Port 5000
+info: Apr-12-2022 08:38:14 : DB Connected
+info: Apr-12-2022 08:38:21 : 0 Tasks Fetched
+info: Apr-12-2022 08:38:26 : 0 Tasks Fetched
+info: Apr-12-2022 08:38:33 : 0 Tasks Fetched
+info: Apr-12-2022 08:39:10 : Server running on Port 5000
+info: Apr-12-2022 08:39:10 : DB Connected
+info: Apr-12-2022 08:39:13 : 0 Tasks Fetched
+info: Apr-12-2022 08:39:21 : Server running on Port 5000
+info: Apr-12-2022 08:39:21 : DB Connected
+info: Apr-12-2022 08:39:23 : Task Created with Task-5 
+info: Apr-12-2022 08:39:23 : 1 Tasks Fetched
+info: Apr-12-2022 08:39:30 : Task Created with Lion 
+info: Apr-12-2022 08:39:30 : 2 Tasks Fetched
+info: Apr-12-2022 08:39:59 : Server running on Port 5000
+info: Apr-12-2022 08:39:59 : DB Connected
+info: Apr-12-2022 08:42:09 : Server running on Port 5000
+info: Apr-12-2022 08:42:09 : DB Connected
+info: Apr-12-2022 08:54:38 : Server running on Port 5000
+info: Apr-12-2022 08:54:38 : DB Connected
+info: Apr-12-2022 09:07:50 : 2 Tasks Fetched
+info: Apr-12-2022 09:07:54 : 2 Tasks Fetched
+info: Apr-12-2022 09:08:16 : Server running on Port 5000
+info: Apr-12-2022 09:08:16 : DB Connected
+info: Apr-12-2022 09:08:19 : 2 Tasks Fetched
+info: Apr-12-2022 09:09:08 : Server running on Port 5000
+info: Apr-12-2022 09:09:08 : DB Connected
+info: Apr-12-2022 09:09:11 : 2 Tasks Fetched
+info: Apr-12-2022 09:11:04 : 2 Tasks Fetched
+info: Apr-12-2022 09:11:33 : 2 Tasks Fetched
+info: Apr-12-2022 09:11:36 : Task Created with dasdas 
+info: Apr-12-2022 09:11:36 : 3 Tasks Fetched
+info: Apr-12-2022 09:12:16 : Server running on Port 5000
+info: Apr-12-2022 09:12:16 : DB Connected
+info: Apr-12-2022 09:12:18 : Server running on Port 5000
+info: Apr-12-2022 09:12:18 : DB Connected
+info: Apr-12-2022 09:13:23 : Server running on Port 5000
+info: Apr-12-2022 09:13:23 : DB Connected
+info: Apr-12-2022 09:13:33 : Server running on Port 5000
+info: Apr-12-2022 09:13:33 : DB Connected
+info: Apr-12-2022 09:13:40 : Server running on Port 5000
+info: Apr-12-2022 09:13:40 : DB Connected
+info: Apr-12-2022 09:15:48 : Server running on Port 5000
+info: Apr-12-2022 09:15:48 : DB Connected
+
+
+
+
+
+
+info: Apr-12-2022 09:18:53 : Task Updated with Task ID- 6254f4f0fe78a60924358deb while Updating
+info: Apr-12-2022 09:19:32 : Server running on Port 5000
+info: Apr-12-2022 09:19:32 : DB Connected
+info: Apr-12-2022 09:19:38 : Server running on Port 5000
+info: Apr-12-2022 09:19:38 : DB Connected
+
+
+info: Apr-12-2022 09:19:46 : Task Updated with Task ID- 6254f4f0fe78a60924358deb while Updating
+info: Apr-12-2022 09:20:10 : Task Updated with Task ID- 6254f4f0fe78a60924358deb while Updating
+info: Apr-12-2022 09:22:32 : Server running on Port 5000
+info: Apr-12-2022 09:22:32 : DB Connected
+info: Apr-12-2022 10:01:47 : Task Updated with Task ID- 6254f4f0fe78a60924358deb while Updating
+info: Apr-12-2022 10:02:04 : Task Updated with Task ID- 6254f4f0fe78a60924358deb while Updating
+info: Apr-12-2022 10:11:31 : 3 Tasks Fetched
+info: Apr-12-2022 10:11:36 : 3 Tasks Fetched
+info: Apr-12-2022 10:12:10 : 3 Tasks Fetched
+info: Apr-12-2022 10:12:44 : Server running on Port 5000
+info: Apr-12-2022 10:12:44 : DB Connected
+info: Apr-12-2022 10:12:48 : Server running on Port 5000
+info: Apr-12-2022 10:12:48 : DB Connected
+info: Apr-12-2022 10:12:56 : Server running on Port 5000
+info: Apr-12-2022 10:12:56 : DB Connected
+info: Apr-12-2022 10:13:04 : Server running on Port 5000
+info: Apr-12-2022 10:13:04 : DB Connected
+info: Apr-12-2022 10:13:13 : Server running on Port 5000
+info: Apr-12-2022 10:13:13 : DB Connected
+info: Apr-12-2022 10:13:19 : Server running on Port 5000
+info: Apr-12-2022 10:13:19 : DB Connected
+info: Apr-12-2022 10:14:30 : Server running on Port 5000
+info: Apr-12-2022 10:14:30 : DB Connected
+info: Apr-12-2022 10:15:28 : Server running on Port 5000
+info: Apr-12-2022 10:15:28 : DB Connected
+info: Apr-12-2022 10:15:32 : Server running on Port 5000
+info: Apr-12-2022 10:15:32 : DB Connected
+info: Apr-12-2022 10:15:40 : Server running on Port 5000
+info: Apr-12-2022 10:15:40 : DB Connected
+info: Apr-12-2022 10:15:47 : Server running on Port 5000
+info: Apr-12-2022 10:15:53 : Server running on Port 5000
+info: Apr-12-2022 10:15:53 : DB Connected
+info: Apr-12-2022 10:17:06 : Server running on Port 5000
+info: Apr-12-2022 10:17:06 : DB Connected
+info: Apr-12-2022 10:17:15 : Server running on Port 5000
+info: Apr-12-2022 10:17:15 : DB Connected
+info: Apr-12-2022 10:17:23 : Server running on Port 5000
+info: Apr-12-2022 10:17:23 : DB Connected
+info: Apr-12-2022 10:18:18 : Server running on Port 5000
+info: Apr-12-2022 10:18:18 : DB Connected
+info: Apr-12-2022 10:18:25 : Server running on Port 5000
+info: Apr-12-2022 10:18:25 : DB Connected
+info: Apr-12-2022 10:18:32 : Server running on Port 5000
+info: Apr-12-2022 10:18:32 : DB Connected
+info: Apr-12-2022 10:18:46 : Server running on Port 5000
+info: Apr-12-2022 10:18:50 : Server running on Port 5000
+info: Apr-12-2022 10:18:50 : DB Connected
+info: Apr-12-2022 10:21:26 : Server running on Port 5000
+info: Apr-12-2022 10:21:26 : DB Connected
+info: Apr-12-2022 10:21:36 : Server running on Port 5000
+info: Apr-12-2022 10:21:42 : Server running on Port 5000
+info: Apr-12-2022 10:21:56 : Server running on Port 5000
+info: Apr-12-2022 10:22:00 : Server running on Port 5000
+info: Apr-12-2022 10:22:00 : DB Connected
+info: Apr-12-2022 10:22:06 : Server running on Port 5000
+info: Apr-12-2022 10:22:06 : DB Connected
+info: Apr-12-2022 10:22:50 : Server running on Port 5000
+info: Apr-12-2022 10:22:50 : DB Connected
+info: Apr-12-2022 10:28:35 : Server running on Port 5000
+info: Apr-12-2022 10:28:35 : DB Connected
+info: Apr-12-2022 10:30:28 : Server running on Port 5000
+info: Apr-12-2022 10:30:32 : Server running on Port 5000
+info: Apr-12-2022 10:30:32 : DB Connected
+info: Apr-12-2022 10:34:32 : Server running on Port 5000
+info: Apr-12-2022 10:34:32 : DB Connected
+info: Apr-12-2022 10:34:41 : Server running on Port 5000
+info: Apr-12-2022 10:34:41 : DB Connected
+info: Apr-12-2022 10:34:48 : Server running on Port 5000
+info: Apr-12-2022 10:34:48 : DB Connected
+info: Apr-12-2022 10:34:54 : Server running on Port 5000
+info: Apr-12-2022 10:34:55 : DB Connected
+info: Apr-12-2022 10:35:11 : Server running on Port 5000
+info: Apr-12-2022 10:35:11 : DB Connected
+info: Apr-12-2022 10:36:12 : Server running on Port 5000
+info: Apr-12-2022 10:36:12 : DB Connected
+info: Apr-12-2022 10:42:42 : Server running on Port 5000
+info: Apr-12-2022 10:42:42 : DB Connected
+info: Apr-12-2022 10:42:48 : Server running on Port 5000
+info: Apr-12-2022 10:42:52 : Server running on Port 5000
+info: Apr-12-2022 10:42:52 : DB Connected
+info: Apr-12-2022 10:42:55 : Server running on Port 5000
+info: Apr-12-2022 10:42:55 : DB Connected
+info: Apr-12-2022 10:44:32 : Server running on Port 5000
+info: Apr-12-2022 10:44:32 : DB Connected
+info: Apr-12-2022 10:44:39 : Server running on Port 5000
+info: Apr-12-2022 10:44:47 : Server running on Port 5000
+info: Apr-12-2022 10:44:47 : DB Connected
+info: Apr-12-2022 10:44:52 : Server running on Port 5000
+info: Apr-12-2022 10:44:52 : DB Connected
+info: Apr-12-2022 10:45:03 : Server running on Port 5000
+info: Apr-12-2022 10:45:14 : Server running on Port 5000
+info: Apr-12-2022 10:45:14 : DB Connected
+info: Apr-12-2022 10:45:18 : Server running on Port 5000
+info: Apr-12-2022 10:45:18 : DB Connected
+info: Apr-12-2022 10:45:26 : Server running on Port 5000
+info: Apr-12-2022 10:45:26 : DB Connected
+info: Apr-12-2022 10:54:15 : Server running on Port 5000
+info: Apr-12-2022 10:54:15 : DB Connected
+info: Apr-12-2022 10:54:22 : Server running on Port 5000
+info: Apr-12-2022 10:54:22 : DB Connected
+info: Apr-12-2022 11:01:55 : Server running on Port 5000
+info: Apr-12-2022 11:01:55 : DB Connected
+info: Apr-12-2022 11:02:03 : Server running on Port 5000
+info: Apr-12-2022 11:02:03 : DB Connected
+info: Apr-12-2022 11:04:05 : Server running on Port 5000
+info: Apr-12-2022 11:04:05 : DB Connected
+info: Apr-12-2022 11:04:14 : Server running on Port 5000
+info: Apr-12-2022 11:04:14 : DB Connected
+info: Apr-12-2022 11:04:20 : Server running on Port 5000
+info: Apr-12-2022 11:04:20 : DB Connected
+info: Apr-12-2022 11:13:44 : Server running on Port 5000
+info: Apr-12-2022 11:13:44 : DB Connected
+info: Apr-12-2022 11:14:01 : Server running on Port 5000
+info: Apr-12-2022 11:14:01 : DB Connected
+info: Apr-12-2022 11:25:23 : Server running on Port 5000
+info: Apr-12-2022 11:25:23 : DB Connected
+info: Apr-12-2022 11:27:37 : Server running on Port 5000
+info: Apr-12-2022 11:27:37 : DB Connected
+info: Apr-12-2022 11:28:08 : Server running on Port 5000
+info: Apr-12-2022 11:28:08 : DB Connected
+info: Apr-12-2022 11:31:07 : Server running on Port 5000
+info: Apr-12-2022 11:31:07 : DB Connected
+info: Apr-12-2022 11:31:39 : Server running on Port 5000
+info: Apr-12-2022 11:31:40 : DB Connected
+info: Apr-12-2022 11:33:37 : Server running on Port 5000
+info: Apr-12-2022 11:33:37 : DB Connected
+info: Apr-12-2022 11:34:02 : Server running on Port 5000
+info: Apr-12-2022 11:34:02 : DB Connected
+info: Apr-12-2022 11:38:42 : Server running on Port 5000
+info: Apr-12-2022 11:38:42 : DB Connected
+info: Apr-12-2022 11:39:02 : Server running on Port 5000
+info: Apr-12-2022 11:39:02 : DB Connected
+info: Apr-12-2022 11:39:25 : Server running on Port 5000
+info: Apr-12-2022 11:39:25 : DB Connected
+info: Apr-12-2022 11:40:05 : Server running on Port 5000
+info: Apr-12-2022 11:40:05 : DB Connected
+info: Apr-12-2022 11:41:56 : Server running on Port 5000
+info: Apr-12-2022 11:41:56 : DB Connected
+info: Apr-12-2022 11:42:21 : Server running on Port 5000
+info: Apr-12-2022 11:42:21 : DB Connected
+info: Apr-12-2022 11:42:52 : Server running on Port 5000
+info: Apr-12-2022 11:42:52 : DB Connected
+info: Apr-12-2022 11:43:19 : Server running on Port 5000
+info: Apr-12-2022 11:43:19 : DB Connected
+info: Apr-12-2022 11:43:33 : Server running on Port 5000
+info: Apr-12-2022 11:43:33 : DB Connected
+info: Apr-12-2022 11:44:54 : Server running on Port 5000
+info: Apr-12-2022 11:44:54 : DB Connected
+info: Apr-12-2022 11:45:25 : Server running on Port 5000
+info: Apr-12-2022 11:45:25 : DB Connected
+info: Apr-12-2022 11:49:25 : Server running on Port 5000
+info: Apr-12-2022 11:49:25 : DB Connected
+info: Apr-12-2022 11:52:13 : Server running on Port 5000
+info: Apr-12-2022 11:52:13 : DB Connected
+info: Apr-12-2022 11:53:03 : Server running on Port 5000
+info: Apr-12-2022 11:53:03 : DB Connected
+info: Apr-12-2022 13:00:33 : Server running on Port 5000
+info: Apr-12-2022 13:00:33 : DB Connected
+info: Apr-12-2022 13:02:02 : Server running on Port 5000
+info: Apr-12-2022 13:02:02 : DB Connected
+info: Apr-12-2022 13:02:30 : Server running on Port 5000
+info: Apr-12-2022 13:02:30 : DB Connected
+info: Apr-12-2022 13:03:31 : Server running on Port 5000
+info: Apr-12-2022 13:03:31 : DB Connected
+info: Apr-12-2022 13:04:21 : Server running on Port 5000
+info: Apr-12-2022 13:04:21 : DB Connected
+info: Apr-12-2022 13:04:30 : Server running on Port 5000
+info: Apr-12-2022 13:04:30 : DB Connected
+info: Apr-12-2022 13:06:16 : Server running on Port 5000
+info: Apr-12-2022 13:06:16 : DB Connected
+info: Apr-12-2022 13:06:39 : Server running on Port 5000
+info: Apr-12-2022 13:06:39 : DB Connected
+info: Apr-12-2022 13:09:00 : Server running on Port 5000
+info: Apr-12-2022 13:09:00 : DB Connected
+info: Apr-12-2022 13:10:15 : Server running on Port 5000
+info: Apr-12-2022 13:10:15 : DB Connected
+info: Apr-12-2022 13:13:39 : Server running on Port 5000
+info: Apr-12-2022 13:13:39 : DB Connected
+info: Apr-12-2022 13:14:16 : Server running on Port 5000
+info: Apr-12-2022 13:14:16 : DB Connected
+info: Apr-12-2022 13:16:14 : Server running on Port 5000
+info: Apr-12-2022 13:16:14 : DB Connected
+info: Apr-12-2022 13:16:53 : Server running on Port 5000
+info: Apr-12-2022 13:16:53 : DB Connected
+info: Apr-12-2022 13:17:47 : Server running on Port 5000
+info: Apr-12-2022 13:17:47 : DB Connected
+info: Apr-12-2022 13:38:52 : Server running on Port 5000
+info: Apr-12-2022 13:38:52 : DB Connected
+info: Apr-12-2022 13:55:06 : Server running on Port 5000
+info: Apr-12-2022 13:55:06 : DB Connected
+info: Apr-12-2022 13:55:24 : Server running on Port 5000
+info: Apr-12-2022 13:55:24 : DB Connected
+info: Apr-12-2022 13:55:37 : Server running on Port 5000
+info: Apr-12-2022 13:55:37 : DB Connected
+info: Apr-12-2022 14:03:59 : 3 Tasks Fetched
+info: Apr-12-2022 14:04:04 : Task DELETED with  ID- 6254f4f0fe78a60924358deb
+
+
+info: Apr-12-2022 14:04:04 : 2 Tasks Fetched
+info: Apr-12-2022 14:04:11 : Task DELETED with  ID- 6254ed6ad22f936795d3061a
+
+
+info: Apr-12-2022 14:04:11 : 1 Tasks Fetched
+
+
+
+
+info: Apr-12-2022 14:04:12 : Task DELETED with  ID- 6254ed63d22f936795d30617
+info: Apr-12-2022 14:04:12 : 0 Tasks Fetched
+
+
+info: Apr-12-2022 14:09:13 : Server running on Port 5000
+info: Apr-12-2022 14:09:13 : DB Connected
+info: Apr-12-2022 14:11:43 : Server running on Port 5000
+info: Apr-12-2022 14:11:43 : DB Connected
+info: Apr-12-2022 15:57:33 : Server running on Port 5000
+info: Apr-12-2022 15:57:33 : DB Connected
+info: Apr-12-2022 15:58:33 : Server running on Port 5000
+info: Apr-12-2022 15:58:33 : DB Connected
+info: Apr-12-2022 15:58:41 : Server running on Port 5000
+info: Apr-12-2022 15:58:41 : DB Connected
+info: Apr-12-2022 15:58:45 : 0 Tasks Fetched
+info: Apr-12-2022 15:58:51 : Server running on Port 5000
+info: Apr-12-2022 15:58:51 : DB Connected
+info: Apr-12-2022 15:58:55 : Server running on Port 5000
+info: Apr-12-2022 15:58:55 : DB Connected
+info: Apr-12-2022 16:00:54 : Server running on Port 5000
+info: Apr-12-2022 16:00:54 : DB Connected
+info: Apr-12-2022 16:10:15 : Server running on Port 5000
+info: Apr-12-2022 16:10:15 : DB Connected
+info: Apr-12-2022 16:10:26 : Server running on Port 5000
+info: Apr-12-2022 16:10:26 : DB Connected
+info: Apr-12-2022 16:12:44 : Server running on Port 5000
+info: Apr-12-2022 16:12:44 : DB Connected
+info: Apr-12-2022 16:12:57 : Server running on Port 5000
+info: Apr-12-2022 16:12:57 : DB Connected
+info: Apr-12-2022 16:13:22 : Server running on Port 5000
+info: Apr-12-2022 16:13:22 : DB Connected
+info: Apr-12-2022 16:13:28 : Server running on Port 5000
+info: Apr-12-2022 16:13:28 : DB Connected
+info: Apr-12-2022 16:13:35 : Server running on Port 5000
+info: Apr-12-2022 16:13:35 : DB Connected
+info: Apr-12-2022 16:13:55 : Server running on Port 5000
+info: Apr-12-2022 16:13:55 : DB Connected
+info: Apr-12-2022 16:14:00 : Server running on Port 5000
+info: Apr-12-2022 16:14:00 : DB Connected
+info: Apr-12-2022 16:14:03 : Server running on Port 5000
+info: Apr-12-2022 16:14:03 : DB Connected
+info: Apr-12-2022 16:16:26 : Server running on Port 5000
+info: Apr-12-2022 16:21:22 : Server running on Port 5000
+info: Apr-12-2022 16:21:22 : DB Connected
+info: Apr-12-2022 16:31:15 : Server running on Port 5000
+info: Apr-12-2022 16:31:15 : DB Connected
+info: Apr-12-2022 16:33:11 : Server running on Port 5000
+info: Apr-12-2022 16:33:23 : Server running on Port 5000
+info: Apr-12-2022 16:33:23 : DB Connected
+info: Apr-12-2022 16:36:55 : Server running on Port 5000
+info: Apr-12-2022 16:36:55 : DB Connected
+info: Apr-12-2022 16:37:08 : Server running on Port 5000
+info: Apr-12-2022 16:37:08 : DB Connected
+info: Apr-12-2022 16:37:56 : Server running on Port 5000
+info: Apr-12-2022 16:37:56 : DB Connected
+info: Apr-12-2022 16:38:18 : Server running on Port 5000
+info: Apr-12-2022 16:38:18 : DB Connected
+info: Apr-12-2022 16:38:43 : Server running on Port 5000
+info: Apr-12-2022 16:38:43 : DB Connected
+info: Apr-12-2022 16:39:09 : Server running on Port 5000
+info: Apr-12-2022 16:39:09 : DB Connected
+info: Apr-12-2022 16:39:28 : Server running on Port 5000
+info: Apr-12-2022 16:39:28 : DB Connected
+info: Apr-12-2022 16:41:32 : Server running on Port 5000
+info: Apr-12-2022 16:41:32 : DB Connected
+info: Apr-12-2022 16:41:41 : Server running on Port 5000
+info: Apr-12-2022 16:41:41 : DB Connected
+info: Apr-12-2022 16:43:27 : Server running on Port 5000
+info: Apr-12-2022 16:43:27 : DB Connected
+info: Apr-12-2022 16:45:02 : Server running on Port 5000
+info: Apr-12-2022 16:45:02 : DB Connected
+info: Apr-12-2022 16:45:26 : Server running on Port 5000
+info: Apr-12-2022 16:45:57 : Server running on Port 5000
+info: Apr-12-2022 16:45:57 : DB Connected
+info: Apr-12-2022 16:46:08 : Server running on Port 5000
+info: Apr-12-2022 16:46:08 : DB Connected
+info: Apr-12-2022 16:48:51 : Server running on Port 5000
+info: Apr-12-2022 16:48:51 : DB Connected
+info: Apr-12-2022 16:49:25 : Server running on Port 5000
+info: Apr-12-2022 16:49:25 : DB Connected
+info: Apr-12-2022 16:49:53 : Server running on Port 5000
+info: Apr-12-2022 16:49:53 : DB Connected
+info: Apr-12-2022 16:50:32 : Server running on Port 5000
+info: Apr-12-2022 16:50:32 : DB Connected
+info: Apr-12-2022 16:50:55 : Server running on Port 5000
+info: Apr-12-2022 16:50:55 : DB Connected
+info: Apr-12-2022 16:51:23 : Server running on Port 5000
+info: Apr-12-2022 16:51:23 : DB Connected
+info: Apr-12-2022 16:52:16 : Server running on Port 5000
+info: Apr-12-2022 16:52:16 : DB Connected
+info: Apr-12-2022 16:54:04 : Server running on Port 5000
+info: Apr-12-2022 16:54:05 : DB Connected
+info: Apr-12-2022 16:54:13 : Server running on Port 5000
+info: Apr-12-2022 16:54:13 : DB Connected
+info: Apr-12-2022 16:54:27 : Server running on Port 5000
+info: Apr-12-2022 16:54:27 : DB Connected
+info: Apr-12-2022 16:54:36 : Server running on Port 5000
+info: Apr-12-2022 16:54:36 : DB Connected
+info: Apr-12-2022 18:04:14 : Server running on Port 5000
+info: Apr-12-2022 18:04:14 : DB Connected
+info: Apr-12-2022 18:04:19 : Server running on Port 5000
+info: Apr-12-2022 18:04:20 : DB Connected
+info: Apr-12-2022 18:04:52 : Server running on Port 5000
+info: Apr-12-2022 18:04:52 : DB Connected
+info: Apr-12-2022 18:05:05 : Server running on Port 5000
+info: Apr-12-2022 18:05:05 : DB Connected
+info: Apr-12-2022 18:06:26 : Server running on Port 5000
+info: Apr-12-2022 18:06:27 : DB Connected
+info: Apr-12-2022 18:07:33 : Server running on Port 5000
+info: Apr-12-2022 18:07:33 : DB Connected
+info: Apr-12-2022 18:07:43 : Server running on Port 5000
+info: Apr-12-2022 18:07:43 : DB Connected
+info: Apr-12-2022 18:07:53 : Server running on Port 5000
+info: Apr-12-2022 18:07:53 : DB Connected
+info: Apr-12-2022 18:07:57 : Server running on Port 5000
+info: Apr-12-2022 18:07:57 : DB Connected
+info: Apr-12-2022 18:08:06 : Server running on Port 5000
+info: Apr-12-2022 18:08:06 : DB Connected
+info: Apr-12-2022 18:08:19 : Server running on Port 5000
+info: Apr-12-2022 18:08:19 : DB Connected
+info: Apr-12-2022 18:08:32 : Server running on Port 5000
+info: Apr-12-2022 18:08:32 : DB Connected
+info: Apr-12-2022 18:08:41 : Server running on Port 5000
+info: Apr-12-2022 18:08:41 : DB Connected
+info: Apr-12-2022 18:08:57 : Server running on Port 5000
+info: Apr-12-2022 18:08:57 : DB Connected
+info: Apr-12-2022 18:09:18 : Server running on Port 5000
+info: Apr-12-2022 18:09:18 : DB Connected
+info: Apr-12-2022 18:09:23 : Server running on Port 5000
+info: Apr-12-2022 18:09:23 : DB Connected
+info: Apr-12-2022 18:09:42 : Server running on Port 5000
+info: Apr-12-2022 18:09:42 : DB Connected
+info: Apr-12-2022 18:09:55 : Server running on Port 5000
+info: Apr-12-2022 18:09:55 : DB Connected
+info: Apr-12-2022 18:10:02 : Server running on Port 5000
+info: Apr-12-2022 18:10:02 : DB Connected
+info: Apr-12-2022 18:11:11 : Server running on Port 5000
+info: Apr-12-2022 18:11:11 : DB Connected
+info: Apr-12-2022 18:11:22 : Server running on Port 5000
+info: Apr-12-2022 18:11:22 : DB Connected
+info: Apr-12-2022 18:11:34 : Server running on Port 5000
+info: Apr-12-2022 18:11:34 : DB Connected
+info: Apr-12-2022 18:11:40 : Server running on Port 5000
+info: Apr-12-2022 18:11:40 : DB Connected
+info: Apr-12-2022 18:12:50 : Server running on Port 5000
+info: Apr-12-2022 18:12:50 : DB Connected
+info: Apr-12-2022 18:13:00 : Server running on Port 5000
+info: Apr-12-2022 18:13:00 : DB Connected
+info: Apr-12-2022 18:14:10 : Server running on Port 5000
+info: Apr-12-2022 18:14:10 : DB Connected
+info: Apr-12-2022 18:15:30 : Server running on Port 5000
+info: Apr-12-2022 18:15:30 : DB Connected
+info: Apr-12-2022 18:15:36 : Server running on Port 5000
+info: Apr-12-2022 18:15:36 : DB Connected
+info: Apr-12-2022 18:16:03 : Server running on Port 5000
+info: Apr-12-2022 18:16:03 : DB Connected
+info: Apr-12-2022 18:16:07 : Server running on Port 5000
+info: Apr-12-2022 18:16:07 : DB Connected
+info: Apr-12-2022 18:16:12 : Server running on Port 5000
+info: Apr-12-2022 18:16:12 : DB Connected
+info: Apr-12-2022 18:16:18 : Server running on Port 5000
+info: Apr-12-2022 18:16:18 : DB Connected
+info: Apr-12-2022 18:16:24 : Server running on Port 5000
+info: Apr-12-2022 18:16:24 : DB Connected
+info: Apr-12-2022 18:16:35 : Server running on Port 5000
+info: Apr-12-2022 18:16:35 : DB Connected
+info: Apr-12-2022 18:16:52 : Server running on Port 5000
+info: Apr-12-2022 18:16:52 : DB Connected
+info: Apr-12-2022 18:20:50 : Server running on Port 5000
+info: Apr-12-2022 18:20:50 : DB Connected
+info: Apr-12-2022 18:21:03 : Server running on Port 5000
+info: Apr-12-2022 18:21:03 : DB Connected
+info: Apr-12-2022 18:23:28 : Server running on Port 5000
+info: Apr-12-2022 18:23:28 : DB Connected
+info: Apr-12-2022 18:23:35 : Server running on Port 5000
+info: Apr-12-2022 18:23:35 : DB Connected
+info: Apr-12-2022 18:23:50 : Server running on Port 5000
+info: Apr-12-2022 18:23:50 : DB Connected
+info: Apr-12-2022 18:23:55 : Server running on Port 5000
+info: Apr-12-2022 18:23:55 : DB Connected
+info: Apr-12-2022 18:25:56 : Server running on Port 5000
+info: Apr-12-2022 18:25:56 : DB Connected
+info: Apr-12-2022 18:26:09 : Server running on Port 5000
+info: Apr-12-2022 18:26:09 : DB Connected
+info: Apr-12-2022 18:28:08 : Server running on Port 5000
+info: Apr-12-2022 18:28:08 : DB Connected
+info: Apr-12-2022 18:28:18 : Server running on Port 5000
+info: Apr-12-2022 18:28:18 : DB Connected
+info: Apr-12-2022 18:29:10 : Server running on Port 5000
+info: Apr-12-2022 18:29:10 : DB Connected
+info: Apr-12-2022 18:29:18 : Server running on Port 5000
+info: Apr-12-2022 18:29:18 : DB Connected
+info: Apr-12-2022 18:29:57 : Server running on Port 5000
+info: Apr-12-2022 18:29:57 : DB Connected
+info: Apr-12-2022 18:30:10 : Server running on Port 5000
+info: Apr-12-2022 18:30:10 : DB Connected
+info: Apr-12-2022 18:30:22 : Server running on Port 5000
+info: Apr-12-2022 18:30:22 : DB Connected
+info: Apr-12-2022 18:33:06 : Server running on Port 5000
+info: Apr-12-2022 18:33:06 : DB Connected
+info: Apr-12-2022 18:43:12 : 0 Tasks Fetched
+info: Apr-12-2022 18:45:24 : Server running on Port 5000
+info: Apr-12-2022 18:45:33 : Server running on Port 5000
+info: Apr-12-2022 18:45:33 : DB Connected
+info: Apr-12-2022 18:52:28 : Server running on Port 5000
+info: Apr-12-2022 18:52:28 : DB Connected
+info: Apr-12-2022 18:52:34 : Server running on Port 5000
+info: Apr-12-2022 19:34:56 : Server running on Port 5000
+info: Apr-12-2022 19:34:56 : DB Connected
+info: Apr-12-2022 19:34:56 : 0 Tasks Fetched
+info: Apr-12-2022 19:37:53 : Server running on Port 5000
+info: Apr-12-2022 19:37:53 : DB Connected
+info: Apr-12-2022 19:38:11 : Server running on Port 5000
+info: Apr-12-2022 19:38:11 : DB Connected
+info: Apr-12-2022 19:38:29 : Server running on Port 5000
+info: Apr-12-2022 19:38:29 : DB Connected
+info: Apr-12-2022 19:56:41 : Server running on Port 5000
+info: Apr-12-2022 19:56:41 : DB Connected
+info: Apr-12-2022 20:01:20 : Server running on Port 5000
+info: Apr-12-2022 20:01:20 : DB Connected
+info: Apr-12-2022 20:01:43 : Server running on Port 5000
+info: Apr-12-2022 20:01:43 : DB Connected
+info: Apr-12-2022 20:02:02 : Server running on Port 5000
+info: Apr-12-2022 20:02:02 : DB Connected
+info: Apr-12-2022 20:06:38 : DB Connected
+info: Apr-12-2022 20:08:03 : DB Connected
+info: Apr-12-2022 20:08:11 : DB Connected
+info: Apr-12-2022 20:09:15 : DB Connected
+info: Apr-12-2022 20:09:32 : DB Connected
+info: Apr-12-2022 20:10:58 : DB Connected
+info: Apr-12-2022 20:11:02 : DB Connected
+info: Apr-12-2022 20:11:21 : DB Connected
+info: Apr-12-2022 20:11:26 : DB Connected
+info: Apr-12-2022 20:11:35 : Server running on Port 5000
+info: Apr-12-2022 20:11:35 : DB Connected
+info: Apr-12-2022 20:18:08 : Server running on Port 5000
+info: Apr-12-2022 20:18:08 : DB Connected
+info: Apr-12-2022 20:18:14 : Server running on Port 5000
+info: Apr-12-2022 20:18:14 : DB Connected
+info: Apr-12-2022 20:18:38 : Server running on Port 5000
+info: Apr-12-2022 20:18:38 : DB Connected
+info: Apr-12-2022 20:18:41 : Server running on Port 5000
+info: Apr-12-2022 20:18:41 : DB Connected
+info: Apr-12-2022 20:19:20 : Server running on Port 5000
+info: Apr-12-2022 20:19:20 : DB Connected
+info: Apr-12-2022 20:19:32 : Server running on Port 5000
+info: Apr-12-2022 20:19:32 : DB Connected
+info: Apr-12-2022 20:19:42 : Server running on Port 5000
+info: Apr-12-2022 20:19:42 : DB Connected
+info: Apr-12-2022 20:19:46 : Server running on Port 5000
+info: Apr-12-2022 20:19:46 : DB Connected
+info: Apr-12-2022 20:19:49 : Server running on Port 5000
+info: Apr-12-2022 20:19:49 : DB Connected
+
+
+info: Apr-12-2022 20:20:48 : Server running on Port 5000
+info: Apr-12-2022 20:20:48 : DB Connected
+info: Apr-12-2022 20:21:05 : Server running on Port 5000
+info: Apr-12-2022 20:21:05 : DB Connected
+info: Apr-12-2022 20:21:13 : Server running on Port 5000
+info: Apr-12-2022 20:21:13 : DB Connected
+info: Apr-12-2022 22:03:44 : Server running on Port 5000
+info: Apr-12-2022 22:03:44 : DB Connected
+info: Apr-12-2022 22:09:23 : Server running on Port 5000
+info: Apr-12-2022 22:09:23 : DB Connected
+info: Apr-12-2022 22:09:52 : Server running on Port 5000
+info: Apr-12-2022 22:09:52 : DB Connected
+info: Apr-12-2022 22:09:57 : Server running on Port 5000
+info: Apr-12-2022 22:09:57 : DB Connected
+info: Apr-12-2022 22:10:44 : Server running on Port 5000
+info: Apr-12-2022 22:10:44 : DB Connected
+info: Apr-12-2022 22:35:31 : Server running on Port 5000
+info: Apr-12-2022 22:35:31 : DB Connected
+info: Apr-12-2022 23:08:17 : Server running on Port 5000
+info: Apr-12-2022 23:08:17 : DB Connected
+
+info: Apr-12-2022 23:08:54 : Server running on Port 5000
+info: Apr-12-2022 23:08:54 : DB Connected
+
+info: Apr-12-2022 23:09:24 : Server running on Port 5000
+info: Apr-12-2022 23:09:24 : DB Connected
+
+info: Apr-12-2022 23:09:39 : Server running on Port 5000
+info: Apr-12-2022 23:09:39 : DB Connected
+
+info: Apr-12-2022 23:09:58 : Server running on Port 5000
+info: Apr-12-2022 23:09:58 : DB Connected
+
+
+
+info: Apr-12-2022 23:14:03 : Server running on Port 5000
+info: Apr-12-2022 23:14:03 : DB Connected
+
+
+info: Apr-13-2022 10:30:34 : Server running on Port 5000
+info: Apr-13-2022 10:30:34 : DB Connected
+info: Apr-13-2022 10:31:04 : Server running on Port 5000
+info: Apr-13-2022 10:31:04 : DB Connected
+info: Apr-13-2022 10:31:22 : Server running on Port 5000
+info: Apr-13-2022 10:31:22 : DB Connected
+info: Apr-13-2022 10:32:11 : Server running on Port 5000
+info: Apr-13-2022 10:32:11 : DB Connected
+info: Apr-13-2022 10:32:36 : Server running on Port 5000
+info: Apr-13-2022 10:32:36 : DB Connected
+info: Apr-13-2022 10:32:57 : Server running on Port 5000
+info: Apr-13-2022 10:32:57 : DB Connected
+info: Apr-13-2022 10:33:14 : Server running on Port 5000
+info: Apr-13-2022 10:33:14 : DB Connected
+info: Apr-13-2022 10:33:22 : Server running on Port 5000
+info: Apr-13-2022 10:33:22 : DB Connected
+info: Apr-13-2022 10:34:12 : Server running on Port 5000
+info: Apr-13-2022 10:34:12 : DB Connected
+info: Apr-13-2022 10:34:34 : Server running on Port 5000
+info: Apr-13-2022 10:34:34 : DB Connected
+info: Apr-13-2022 10:34:52 : Server running on Port 5000
+info: Apr-13-2022 10:34:52 : DB Connected
+info: Apr-13-2022 10:35:10 : Server running on Port 5000
+info: Apr-13-2022 10:35:10 : DB Connected
+info: Apr-13-2022 10:35:16 : Server running on Port 5000
+info: Apr-13-2022 10:35:16 : DB Connected
+
+info: Apr-13-2022 10:35:52 : Server running on Port 5000
+info: Apr-13-2022 10:35:52 : DB Connected
+info: Apr-13-2022 10:36:31 : Server running on Port 5000
+info: Apr-13-2022 10:36:31 : DB Connected
+info: Apr-13-2022 10:37:57 : Server running on Port 5000
+info: Apr-13-2022 10:37:57 : DB Connected
+info: Apr-13-2022 10:55:26 : Server running on Port 5000
+info: Apr-13-2022 10:55:26 : DB Connected
+info: Apr-13-2022 10:55:34 : Server running on Port 5000
+info: Apr-13-2022 10:55:34 : DB Connected
+info: Apr-13-2022 11:00:55 : Server running on Port 5000
+info: Apr-13-2022 11:00:55 : DB Connected
+info: Apr-13-2022 11:03:03 : Server running on Port 5000
+info: Apr-13-2022 11:03:03 : DB Connected
+
+info: Apr-13-2022 11:04:25 : Server running on Port 5000
+info: Apr-13-2022 11:04:25 : DB Connected
+info: Apr-13-2022 11:08:50 : Server running on Port 5000
+info: Apr-13-2022 11:08:50 : DB Connected
+info: Apr-13-2022 11:09:10 : Server running on Port 5000
+info: Apr-13-2022 11:09:10 : DB Connected
+info: Apr-13-2022 11:09:20 : Server running on Port 5000
+info: Apr-13-2022 11:09:20 : DB Connected
+info: Apr-13-2022 11:09:29 : Server running on Port 5000
+info: Apr-13-2022 11:09:29 : DB Connected
+info: Apr-13-2022 11:09:42 : Server running on Port 5000
+info: Apr-13-2022 11:09:42 : DB Connected
+info: Apr-13-2022 11:11:01 : Server running on Port 5000
+info: Apr-13-2022 11:11:01 : DB Connected
+info: Apr-13-2022 11:11:34 : Server running on Port 5000
+info: Apr-13-2022 11:11:34 : DB Connected
+
+info: Apr-13-2022 11:11:47 : Server running on Port 5000
+info: Apr-13-2022 11:11:47 : DB Connected
+
+
+
+info: Apr-13-2022 11:22:07 : Server running on Port 5000
+info: Apr-13-2022 11:22:07 : DB Connected
+info: Apr-13-2022 11:24:48 : Server running on Port 5000
+info: Apr-13-2022 11:24:48 : DB Connected
+
+
+
+
+
+
+
+
+
+
+
+
+info: Apr-13-2022 11:29:49 : Server running on Port 5000
+info: Apr-13-2022 11:29:49 : DB Connected
+info: Apr-13-2022 11:35:15 : Server running on Port 5000
+info: Apr-13-2022 11:35:15 : DB Connected
+info: Apr-13-2022 11:36:06 : Server running on Port 5000
+info: Apr-13-2022 11:36:06 : DB Connected
+info: Apr-13-2022 11:36:47 : Server running on Port 5000
+info: Apr-13-2022 11:36:47 : DB Connected
+
+
+info: Apr-13-2022 11:41:55 : Server running on Port 5000
+info: Apr-13-2022 11:41:55 : DB Connected
+info: Apr-13-2022 11:42:22 : Server running on Port 5000
+info: Apr-13-2022 11:42:22 : DB Connected
+info: Apr-13-2022 11:42:57 : Server running on Port 5000
+info: Apr-13-2022 11:42:57 : DB Connected
+info: Apr-13-2022 11:43:19 : Server running on Port 5000
+info: Apr-13-2022 11:43:19 : DB Connected
+info: Apr-13-2022 11:45:05 : Server running on Port 5000
+info: Apr-13-2022 11:45:05 : DB Connected
+info: Apr-13-2022 13:03:48 : Server running on Port 5000
+info: Apr-13-2022 13:03:48 : DB Connected
+info: Apr-13-2022 13:19:31 : Server running on Port 5000
+info: Apr-13-2022 13:19:31 : DB Connected
+info: Apr-13-2022 15:17:27 : Server running on Port 5000
+info: Apr-13-2022 15:17:27 : DB Connected
+info: Apr-13-2022 15:17:32 : Server running on Port 5000
+info: Apr-13-2022 15:17:32 : DB Connected
+info: Apr-13-2022 15:17:40 : Server running on Port 5000
+info: Apr-13-2022 15:17:40 : DB Connected
+info: Apr-13-2022 15:18:03 : Server running on Port 5000
+info: Apr-13-2022 15:18:03 : DB Connected
+info: Apr-13-2022 16:05:53 : Server running on Port 5000
+info: Apr-13-2022 16:05:53 : DB Connected
+info: Apr-13-2022 16:06:11 : Server running on Port 5000
+info: Apr-13-2022 16:06:11 : DB Connected
+info: Apr-13-2022 16:06:32 : Server running on Port 5000
+info: Apr-13-2022 16:06:32 : DB Connected
+info: Apr-13-2022 16:06:53 : Server running on Port 5000
+info: Apr-13-2022 16:06:53 : DB Connected
+info: Apr-13-2022 16:07:16 : Server running on Port 5000
+info: Apr-13-2022 16:07:16 : DB Connected
+info: Apr-13-2022 16:10:19 : Server running on Port 5000
+info: Apr-13-2022 16:10:19 : DB Connected
+info: Apr-13-2022 16:10:38 : Server running on Port 5000
+info: Apr-13-2022 16:10:39 : DB Connected
+info: Apr-13-2022 18:32:42 : Server running on Port 5000
+info: Apr-13-2022 18:32:42 : DB Connected
+info: Apr-13-2022 18:33:04 : Server running on Port 5000
+info: Apr-13-2022 18:33:04 : DB Connected
+info: Apr-13-2022 18:33:18 : Server running on Port 5000
+info: Apr-13-2022 18:33:18 : DB Connected
+info: Apr-13-2022 18:33:41 : Server running on Port 5000
+info: Apr-13-2022 18:33:41 : DB Connected
+info: Apr-13-2022 18:34:27 : Server running on Port 5000
+info: Apr-13-2022 18:34:27 : DB Connected
+
+info: Apr-13-2022 18:34:58 : Server running on Port 5000
+info: Apr-13-2022 18:34:58 : DB Connected
+
+info: Apr-13-2022 18:35:14 : Server running on Port 5000
+info: Apr-13-2022 18:35:14 : DB Connected
+info: Apr-13-2022 18:35:21 : Server running on Port 5000
+info: Apr-13-2022 18:35:21 : DB Connected
+info: Apr-13-2022 18:49:26 : Server running on Port 5000
+info: Apr-13-2022 18:49:26 : DB Connected
+info: Apr-13-2022 18:49:33 : Server running on Port 5000
+info: Apr-13-2022 18:49:33 : DB Connected
+info: Apr-13-2022 18:50:05 : Server running on Port 5000
+info: Apr-13-2022 18:50:05 : DB Connected
+info: Apr-13-2022 18:50:57 : Server running on Port 5000
+info: Apr-13-2022 18:50:57 : DB Connected
+info: Apr-13-2022 18:51:08 : Server running on Port 5000
+info: Apr-13-2022 18:51:08 : DB Connected
+info: Apr-13-2022 18:52:33 : Server running on Port 5000
+info: Apr-13-2022 18:52:33 : DB Connected
+info: Apr-13-2022 18:54:06 : Server running on Port 5000
+info: Apr-13-2022 18:54:06 : DB Connected
+info: Apr-13-2022 18:54:40 : Server running on Port 5000
+info: Apr-13-2022 18:54:40 : DB Connected
+info: Apr-13-2022 18:55:13 : Server running on Port 5000
+info: Apr-13-2022 18:55:13 : DB Connected
+info: Apr-14-2022 15:27:30 : Server running on Port 5000
+info: Apr-14-2022 15:27:30 : DB Connected
+info: Apr-14-2022 15:33:51 : Server running on Port 5000
+info: Apr-14-2022 15:33:51 : DB Connected
+info: Apr-14-2022 15:45:01 : Server running on Port 5000
+info: Apr-14-2022 15:45:01 : DB Connected
+info: Apr-14-2022 15:46:15 : Server running on Port 5000
+info: Apr-14-2022 15:46:15 : DB Connected
+info: Apr-14-2022 15:46:29 : Server running on Port 5000
+info: Apr-14-2022 15:46:29 : DB Connected
+info: Apr-14-2022 15:46:36 : Server running on Port 5000
+info: Apr-14-2022 15:46:36 : DB Connected
+info: Apr-14-2022 15:46:39 : Server running on Port 5000
+info: Apr-14-2022 15:46:39 : DB Connected
+info: Apr-14-2022 15:46:55 : Server running on Port 5000
+info: Apr-14-2022 15:46:55 : DB Connected
+info: Apr-14-2022 15:48:44 : Server running on Port 5000
+info: Apr-14-2022 15:48:44 : DB Connected
+info: Apr-14-2022 15:54:09 : Server running on Port 5000
+info: Apr-14-2022 15:54:09 : DB Connected
+>>>>>>> Stashed changes
+info: Apr-14-2022 20:24:47 : Server running on Port 5000
+info: Apr-14-2022 20:24:47 : DB Connected
+info: Apr-14-2022 20:24:53 : Server running on Port 5000
+info: Apr-14-2022 20:24:53 : DB Connected
+info: Apr-14-2022 20:34:24 : Server running on Port 5000
+info: Apr-14-2022 20:34:24 : DB Connected
+info: Apr-14-2022 21:05:09 : Server running on Port 5000
+info: Apr-14-2022 21:05:09 : DB Connected
+info: Apr-14-2022 21:05:14 : Server running on Port 5000
+info: Apr-14-2022 21:05:14 : DB Connected
+info: Apr-14-2022 21:05:30 : Server running on Port 5000
+info: Apr-14-2022 21:05:30 : DB Connected
+info: Apr-14-2022 21:05:34 : Server running on Port 5000
+info: Apr-14-2022 21:05:34 : DB Connected
+info: Apr-14-2022 21:05:47 : Server running on Port 5000
+info: Apr-14-2022 21:05:47 : DB Connected
+info: Apr-14-2022 21:05:53 : Server running on Port 5000
+info: Apr-14-2022 21:05:53 : DB Connected
+info: Apr-14-2022 21:05:56 : Server running on Port 5000
+info: Apr-14-2022 21:05:56 : DB Connected
+info: Apr-14-2022 21:06:09 : Server running on Port 5000
+info: Apr-14-2022 21:06:09 : DB Connected
+info: Apr-14-2022 21:06:50 : Server running on Port 5000
+info: Apr-14-2022 21:06:50 : DB Connected
+info: Apr-14-2022 21:07:03 : Server running on Port 5000
+info: Apr-14-2022 21:07:03 : DB Connected
+info: Apr-14-2022 21:09:08 : Server running on Port 5000
+info: Apr-14-2022 21:09:08 : DB Connected
+info: Apr-14-2022 21:09:35 : Server running on Port 5000
+info: Apr-14-2022 21:09:35 : DB Connected
+info: Apr-14-2022 21:09:57 : Server running on Port 5000
+info: Apr-14-2022 21:09:57 : DB Connected
+info: Apr-14-2022 21:10:07 : Server running on Port 5000
+info: Apr-14-2022 21:10:07 : DB Connected
+info: Apr-14-2022 21:11:12 : Server running on Port 5000
+info: Apr-14-2022 21:11:12 : DB Connected
+info: Apr-14-2022 21:11:39 : Server running on Port 5000
+info: Apr-14-2022 21:11:39 : DB Connected
+info: Apr-14-2022 21:13:22 : Server running on Port 5000
+info: Apr-14-2022 21:13:22 : DB Connected
+info: Apr-14-2022 21:13:56 : Server running on Port 5000
+info: Apr-14-2022 21:13:56 : DB Connected
+info: Apr-14-2022 21:14:50 : Server running on Port 5000
+info: Apr-14-2022 21:14:50 : DB Connected
+info: Apr-14-2022 21:16:08 : Server running on Port 5000
+info: Apr-14-2022 21:16:08 : DB Connected
+info: Apr-14-2022 21:19:56 : Server running on Port 5000
+info: Apr-14-2022 21:19:57 : DB Connected
+info: Apr-14-2022 21:20:04 : Server running on Port 5000
+info: Apr-14-2022 21:20:04 : DB Connected
+
+
+info: Apr-14-2022 21:24:01 : Server running on Port 5000
+info: Apr-14-2022 21:24:02 : DB Connected
+info: Apr-14-2022 21:24:18 : Server running on Port 5000
+info: Apr-14-2022 21:24:18 : DB Connected
+info: Apr-14-2022 21:25:06 : Server running on Port 5000
+info: Apr-14-2022 21:25:06 : DB Connected
+info: Apr-14-2022 21:25:17 : Server running on Port 5000
+info: Apr-14-2022 21:25:17 : DB Connected
+info: Apr-14-2022 21:25:31 : Server running on Port 5000
+info: Apr-14-2022 21:25:31 : DB Connected
+
+
+info: Apr-14-2022 21:27:46 : Server running on Port 5000
+info: Apr-14-2022 21:27:46 : DB Connected
+
+
+
+info: Apr-14-2022 21:28:19 : Server running on Port 5000
+info: Apr-14-2022 21:28:19 : DB Connected
+
+
+info: Apr-14-2022 21:28:27 : Server running on Port 5000
+info: Apr-14-2022 21:28:27 : DB Connected
+info: Apr-14-2022 21:28:43 : Server running on Port 5000
+info: Apr-14-2022 21:28:43 : DB Connected
+info: Apr-14-2022 21:28:50 : Server running on Port 5000
+info: Apr-14-2022 21:28:50 : DB Connected
+
+info: Apr-14-2022 21:31:18 : Server running on Port 5000
+info: Apr-14-2022 21:31:18 : DB Connected
+info: Apr-14-2022 21:31:40 : Server running on Port 5000
+info: Apr-14-2022 21:31:40 : DB Connected
+info: Apr-14-2022 21:31:52 : Server running on Port 5000
+info: Apr-14-2022 21:31:52 : DB Connected
+info: Apr-14-2022 21:32:12 : Server running on Port 5000
+info: Apr-14-2022 21:32:12 : DB Connected
+info: Apr-14-2022 21:36:09 : Server running on Port 5000
+info: Apr-14-2022 21:36:09 : DB Connected
+info: Apr-14-2022 21:36:52 : Server running on Port 5000
+info: Apr-14-2022 21:36:52 : DB Connected
+info: Apr-14-2022 21:37:11 : Server running on Port 5000
+info: Apr-14-2022 21:37:11 : DB Connected
+info: Apr-14-2022 21:37:50 : Server running on Port 5000
+info: Apr-14-2022 21:37:50 : DB Connected
+info: Apr-14-2022 21:38:11 : Server running on Port 5000
+info: Apr-14-2022 21:38:11 : DB Connected
+info: Apr-14-2022 21:38:34 : Server running on Port 5000
+info: Apr-14-2022 21:38:34 : DB Connected
+info: Apr-14-2022 21:39:13 : Server running on Port 5000
+info: Apr-14-2022 21:39:13 : DB Connected
+info: Apr-14-2022 21:39:51 : Server running on Port 5000
+info: Apr-14-2022 21:39:51 : DB Connected
+info: Apr-14-2022 21:39:56 : Server running on Port 5000
+info: Apr-14-2022 21:39:56 : DB Connected
+info: Apr-14-2022 21:40:05 : Server running on Port 5000
+info: Apr-14-2022 21:40:05 : DB Connected
+info: Apr-14-2022 21:40:20 : Server running on Port 5000
+info: Apr-14-2022 21:40:20 : DB Connected
+info: Apr-14-2022 21:41:06 : Server running on Port 5000
+info: Apr-14-2022 21:41:06 : DB Connected
+info: Apr-14-2022 21:42:30 : Server running on Port 5000
+info: Apr-14-2022 21:42:30 : DB Connected
+info: Apr-14-2022 21:43:12 : Server running on Port 5000
+info: Apr-14-2022 21:43:12 : DB Connected
+info: Apr-14-2022 21:43:33 : Server running on Port 5000
+info: Apr-14-2022 21:43:33 : DB Connected
+info: Apr-14-2022 21:43:45 : Server running on Port 5000
+info: Apr-14-2022 21:43:45 : DB Connected
+info: Apr-14-2022 21:45:33 : Server running on Port 5000
+info: Apr-14-2022 21:45:33 : DB Connected
+info: Apr-14-2022 21:45:58 : Server running on Port 5000
+info: Apr-14-2022 21:45:58 : DB Connected
+info: Apr-14-2022 21:46:31 : Server running on Port 5000
+info: Apr-14-2022 21:46:31 : DB Connected
+info: Apr-14-2022 21:48:51 : Server running on Port 5000
+info: Apr-14-2022 21:48:51 : DB Connected
+info: Apr-14-2022 21:49:44 : Server running on Port 5000
+info: Apr-14-2022 21:49:44 : DB Connected
+info: Apr-14-2022 21:49:47 : Server running on Port 5000
+info: Apr-14-2022 21:49:47 : DB Connected
+info: Apr-14-2022 21:50:46 : Server running on Port 5000
+info: Apr-14-2022 21:50:46 : DB Connected
+info: Apr-14-2022 21:51:03 : 0 Tasks Fetched
+info: Apr-14-2022 21:51:16 : Server running on Port 5000
+info: Apr-14-2022 21:51:16 : DB Connected
+info: Apr-14-2022 21:51:26 : 0 Tasks Fetched
+info: Apr-14-2022 21:51:32 : Server running on Port 5000
+info: Apr-14-2022 21:51:32 : DB Connected
+info: Apr-14-2022 21:52:22 : Server running on Port 5000
+info: Apr-14-2022 21:52:22 : DB Connected
+info: Apr-14-2022 21:52:39 : 0 Tasks Fetched
+info: Apr-14-2022 21:52:55 : Server running on Port 5000
+info: Apr-14-2022 21:52:55 : DB Connected
+info: Apr-14-2022 21:53:10 : 0 Tasks Fetched
+info: Apr-14-2022 21:55:51 : Server running on Port 5000
+info: Apr-14-2022 21:55:51 : DB Connected
+info: Apr-14-2022 21:55:55 : Server running on Port 5000
+info: Apr-14-2022 21:55:55 : DB Connected
+info: Apr-14-2022 21:55:59 : Server running on Port 5000
+info: Apr-14-2022 21:55:59 : DB Connected
+info: Apr-14-2022 21:56:21 : Server running on Port 5000
+info: Apr-14-2022 21:56:21 : DB Connected
+info: Apr-14-2022 21:56:22 : 0 Tasks Fetched
+info: Apr-14-2022 21:56:29 : Server running on Port 5000
+info: Apr-14-2022 21:56:29 : DB Connected
+info: Apr-14-2022 21:56:31 : Server running on Port 5000
+info: Apr-14-2022 21:56:31 : DB Connected
+info: Apr-14-2022 22:52:11 : Server running on Port 5000
+info: Apr-14-2022 22:52:11 : DB Connected
+info: Apr-14-2022 22:56:01 : Server running on Port 5000
+info: Apr-14-2022 22:56:01 : DB Connected
+info: Apr-14-2022 22:56:47 : Server running on Port 5000
+info: Apr-14-2022 22:56:47 : DB Connected
+info: Apr-14-2022 22:57:36 : Server running on Port 5000
+info: Apr-14-2022 22:57:36 : DB Connected
+info: Apr-14-2022 22:57:51 : Server running on Port 5000
+info: Apr-14-2022 22:57:51 : DB Connected
+info: Apr-14-2022 23:01:06 : 13 Tasks Fetched
+info: Apr-14-2022 23:01:35 : 13 Tasks Fetched
+info: Apr-14-2022 23:02:16 : 13 Tasks Fetched
+info: Apr-14-2022 23:02:25 : 13 Tasks Fetched
+info: Apr-14-2022 23:02:40 : 13 Tasks Fetched
+info: Apr-14-2022 23:04:14 : 13 Tasks Fetched
+info: Apr-14-2022 23:06:32 : 13 Tasks Fetched
+info: Apr-14-2022 23:08:29 : 13 Tasks Fetched
+info: Apr-14-2022 23:08:44 : 13 Tasks Fetched
+info: Apr-14-2022 23:09:24 : 13 Tasks Fetched
+info: Apr-14-2022 23:12:44 : 13 Tasks Fetched
+info: Apr-14-2022 23:16:00 : Task Created with fghjkl 
+info: Apr-14-2022 23:16:00 : 14 Tasks Fetched
+info: Apr-14-2022 23:16:22 : 14 Tasks Fetched
+info: Apr-14-2022 23:17:59 : Server running on Port 5000
+info: Apr-14-2022 23:17:59 : DB Connected
+info: Apr-14-2022 23:18:02 : Server running on Port 5000
+info: Apr-14-2022 23:18:02 : DB Connected
+info: Apr-14-2022 23:18:32 : Server running on Port 5000
+info: Apr-14-2022 23:18:32 : DB Connected
+info: Apr-14-2022 23:20:53 : Server running on Port 5000
+info: Apr-14-2022 23:20:53 : DB Connected
+info: Apr-14-2022 23:24:02 : Server running on Port 5000
+info: Apr-14-2022 23:24:02 : DB Connected
+info: Apr-14-2022 23:24:23 : Server running on Port 5000
+info: Apr-14-2022 23:24:23 : DB Connected
+info: Apr-14-2022 23:25:06 : Server running on Port 5000
+info: Apr-14-2022 23:25:06 : DB Connected
+info: Apr-14-2022 23:26:30 : Server running on Port 5000
+info: Apr-14-2022 23:26:30 : DB Connected
+info: Apr-14-2022 23:27:06 : Server running on Port 5000
+info: Apr-14-2022 23:27:06 : DB Connected
+info: Apr-14-2022 23:29:27 : Server running on Port 5000
+info: Apr-14-2022 23:29:27 : DB Connected
+info: Apr-14-2022 23:30:32 : Server running on Port 5000
+info: Apr-14-2022 23:30:32 : DB Connected
+info: Apr-14-2022 23:30:48 : Server running on Port 5000
+info: Apr-14-2022 23:30:48 : DB Connected
+
+info: Apr-14-2022 23:31:37 : Server running on Port 5000
+info: Apr-14-2022 23:31:37 : DB Connected
+
+
+info: Apr-14-2022 23:31:59 : Server running on Port 5000
+info: Apr-14-2022 23:31:59 : DB Connected
+
+info: Apr-14-2022 23:32:08 : Server running on Port 5000
+info: Apr-14-2022 23:32:08 : DB Connected
+info: Apr-14-2022 23:32:25 : Server running on Port 5000
+info: Apr-14-2022 23:32:25 : DB Connected
+info: Apr-14-2022 23:32:38 : Server running on Port 5000
+info: Apr-14-2022 23:32:38 : DB Connected
+info: Apr-14-2022 23:32:41 : Server running on Port 5000
+info: Apr-14-2022 23:32:41 : DB Connected
+
+info: Apr-14-2022 23:34:11 : Server running on Port 5000
+info: Apr-14-2022 23:34:11 : DB Connected
+info: Apr-14-2022 23:34:14 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-14-2022 23:34:14 : 14 Tasks Fetched
+info: Apr-14-2022 23:35:16 : Server running on Port 5000
+info: Apr-14-2022 23:35:16 : DB Connected
+
+info: Apr-14-2022 23:35:29 : Server running on Port 5000
+info: Apr-14-2022 23:35:29 : DB Connected
+info: Apr-14-2022 23:35:29 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-14-2022 23:35:30 : 14 Tasks Fetched
+info: Apr-14-2022 23:35:38 : Server running on Port 5000
+info: Apr-14-2022 23:35:38 : DB Connected
+info: Apr-14-2022 23:36:07 : Server running on Port 5000
+info: Apr-14-2022 23:36:07 : DB Connected
+info: Apr-14-2022 23:36:17 : Server running on Port 5000
+info: Apr-14-2022 23:36:17 : DB Connected
+info: Apr-14-2022 23:36:31 : new user created with email m@gmail.com
+info: Apr-14-2022 23:36:32 : 0 Tasks Fetched
+info: Apr-14-2022 23:39:41 : Server running on Port 5000
+info: Apr-14-2022 23:39:42 : DB Connected
+info: Apr-14-2022 23:40:17 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-14-2022 23:40:17 : 14 Tasks Fetched
+info: Apr-14-2022 23:40:19 : Task DELETED with  ID- 62585dd8f79633a820e909c4
+info: Apr-14-2022 23:40:19 : 13 Tasks Fetched
+info: Apr-14-2022 23:40:27 : 13 Tasks Fetched
+info: Apr-14-2022 23:40:53 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-14-2022 23:40:53 : 13 Tasks Fetched
+info: Apr-14-2022 23:41:12 : Server running on Port 5000
+info: Apr-14-2022 23:41:12 : DB Connected
+info: Apr-14-2022 23:41:31 : Server running on Port 5000
+info: Apr-14-2022 23:41:31 : DB Connected
+info: Apr-14-2022 23:53:32 : Server running on Port 5000
+info: Apr-14-2022 23:53:32 : DB Connected
+info: Apr-14-2022 23:54:22 : DB Connected
+info: Apr-14-2022 23:54:22 : new user created with email trying@gmail.com
+info: Apr-14-2022 23:55:08 : Server running on Port 5000
+info: Apr-14-2022 23:55:08 : DB Connected
+info: Apr-14-2022 23:55:25 : DB Connected
+
+info: Apr-14-2022 23:55:40 : Server running on Port 5000
+info: Apr-14-2022 23:55:40 : DB Connected
+info: Apr-14-2022 23:55:45 : DB Connected
+info: Apr-14-2022 23:55:45 : new user created with email trying1@gmail.com
+info: Apr-14-2022 23:56:11 : Server running on Port 5000
+info: Apr-14-2022 23:56:11 : DB Connected
+info: Apr-14-2022 23:56:21 : DB Connected
+
+info: Apr-14-2022 23:57:20 : Server running on Port 5000
+info: Apr-14-2022 23:57:20 : DB Connected
+info: Apr-14-2022 23:57:24 : DB Connected
+info: Apr-14-2022 23:57:25 : new user created with email trying2@gmail.com
+info: Apr-14-2022 23:58:39 : Server running on Port 5000
+info: Apr-14-2022 23:58:39 : DB Connected
+info: Apr-14-2022 23:58:43 : Server running on Port 5000
+info: Apr-14-2022 23:58:43 : DB Connected
+info: Apr-14-2022 23:59:05 : Server running on Port 5000
+info: Apr-14-2022 23:59:05 : DB Connected
+info: Apr-14-2022 23:59:10 : DB Connected
+info: Apr-14-2022 23:59:10 : new user created with email trying3@gmail.com
+
+info: Apr-15-2022 00:02:27 : Server running on Port 5000
+info: Apr-15-2022 00:02:28 : DB Connected
+info: Apr-15-2022 00:02:38 : Server running on Port 5000
+info: Apr-15-2022 00:02:38 : DB Connected
+info: Apr-15-2022 00:02:45 : Server running on Port 5000
+info: Apr-15-2022 00:02:45 : DB Connected
+info: Apr-15-2022 00:02:52 : DB Connected
+
+info: Apr-15-2022 00:03:02 : Server running on Port 5000
+info: Apr-15-2022 00:03:02 : DB Connected
+info: Apr-15-2022 00:03:06 : DB Connected
+info: Apr-15-2022 00:03:06 : new user created with email trying4@gmail.com
+info: Apr-15-2022 00:03:34 : Server running on Port 5000
+info: Apr-15-2022 00:03:34 : DB Connected
+info: Apr-15-2022 00:03:39 : DB Connected
+
+info: Apr-15-2022 00:03:45 : Server running on Port 5000
+info: Apr-15-2022 00:03:45 : DB Connected
+info: Apr-15-2022 00:03:50 : DB Connected
+info: Apr-15-2022 00:03:50 : new user created with email trying5@gmail.com
+
+info: Apr-15-2022 00:06:05 : Server running on Port 5000
+info: Apr-15-2022 00:06:06 : DB Connected
+info: Apr-15-2022 00:06:18 : Server running on Port 5000
+info: Apr-15-2022 00:06:18 : DB Connected
+info: Apr-15-2022 00:06:23 : DB Connected
+
+info: Apr-15-2022 00:07:05 : Server running on Port 5000
+info: Apr-15-2022 00:07:05 : DB Connected
+info: Apr-15-2022 00:07:10 : DB Connected
+
+info: Apr-15-2022 00:08:24 : Server running on Port 5000
+info: Apr-15-2022 00:08:25 : DB Connected
+info: Apr-15-2022 00:09:28 : Server running on Port 5000
+info: Apr-15-2022 00:09:28 : DB Connected
+info: Apr-15-2022 00:09:34 : DB Connected
+
+info: Apr-15-2022 00:10:32 : Server running on Port 5000
+info: Apr-15-2022 00:10:32 : DB Connected
+info: Apr-15-2022 00:11:44 : Server running on Port 5000
+info: Apr-15-2022 00:11:44 : DB Connected
+info: Apr-15-2022 00:11:50 : DB Connected
+
+info: Apr-15-2022 00:12:48 : Server running on Port 5000
+info: Apr-15-2022 00:12:49 : DB Connected
+info: Apr-15-2022 00:13:22 : Server running on Port 5000
+info: Apr-15-2022 00:13:22 : DB Connected
+info: Apr-15-2022 00:13:27 : DB Connected
+
+info: Apr-15-2022 00:18:33 : Server running on Port 5000
+info: Apr-15-2022 00:18:33 : DB Connected
+info: Apr-15-2022 00:18:38 : DB Connected
+
+info: Apr-15-2022 00:21:14 : Server running on Port 5000
+info: Apr-15-2022 00:21:14 : DB Connected
+info: Apr-15-2022 00:21:43 : Server running on Port 5000
+info: Apr-15-2022 00:21:43 : DB Connected
+info: Apr-15-2022 00:21:53 : Server running on Port 5000
+info: Apr-15-2022 00:21:53 : DB Connected
+info: Apr-15-2022 00:22:05 : DB Connected
+info: Apr-15-2022 00:22:06 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-15-2022 00:24:54 : Server running on Port 5000
+info: Apr-15-2022 00:24:54 : DB Connected
+info: Apr-15-2022 00:25:46 : Server running on Port 5000
+info: Apr-15-2022 00:25:46 : DB Connected
+info: Apr-15-2022 00:25:54 : DB Connected
+info: Apr-15-2022 00:25:54 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+info: Apr-15-2022 00:28:17 : Server running on Port 5000
+info: Apr-15-2022 00:28:17 : DB Connected
+info: Apr-15-2022 00:28:22 : DB Connected
+info: Apr-15-2022 00:28:22 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-15-2022 00:28:31 : Server running on Port 5000
+info: Apr-15-2022 00:28:31 : DB Connected
+info: Apr-15-2022 00:28:52 : Server running on Port 5000
+info: Apr-15-2022 00:28:52 : DB Connected
+info: Apr-15-2022 00:29:45 : Server running on Port 5000
+info: Apr-15-2022 00:29:45 : DB Connected
+info: Apr-15-2022 00:29:59 : DB Connected
+info: Apr-15-2022 00:30:00 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+

@@ -59,7 +59,7 @@ const deleteClick=(task)=>{
                            <th>Change Status</th>         
                         </tr>   
                         </thead>
-<tbody>
+                    <tbody>
                     {data.map(task=>(
                    task.status===props.status?
                         <tr key={task._id} >
@@ -70,7 +70,7 @@ const deleteClick=(task)=>{
                         </tr>:""
                     ))
                 }
-</tbody>
+                </tbody>
                     </table>
                 }
             </div>
