@@ -63,11 +63,4 @@ const userLogout = catchAsyncErrors(async (req, res) => {
     });
 });
 
-const deleteUser = catchAsyncErrors(async (req, res) => {
-    const response = await User.findOneAndDelete({ email: req.body.eamil });
-    if (!response) {
-        return res.status(400).json({ msg: "User not Found" })
-    }
-    return res.status(200).json({ msg: "User deleted" })
-})
-module.exports = { createUser, loginUser, userLogout, deleteUser };
+module.exports = { createUser, loginUser, userLogout };
