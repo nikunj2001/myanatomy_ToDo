@@ -1,49 +1,73 @@
 const User = require("../models/Users");
 const bcrypt = require('bcrypt');
-const jwt = require('jsonwebtoken');
 const { validationResult } = require('express-validator');
 const catchAsyncErrors = require("../middleware/catchAsyncErrors");
 const logger = require("../config/logger");
 const createToken = require("../utils/createToken");
 
+const options = {
+    expires: new Date(
+        Date.now() + 7 * 24 * 60 * 60 * 1000
+    ),
+    httpOnly: true,
+}
+
 const createUser = catchAsyncErrors(async (req, res) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-        console.log(errors);
-        return res.json({ errors: errors.array() });
+        return res.status(400).json({ errors: errors.array() });
     }
     const { name, email, password } = req.body;
     const userExists = await User.findOne({ email });
     if (userExists) {
         logger.error(`Cant create user with email ${email}`)
-        return res.send({ errors: [{ msg: 'Email is already taken' }] })
+        return res.status(400).json({ errors: [{ msg: 'Email is already taken' }] })
     }
     const user = await User.create({
         name, email, password
     });
     const token = createToken(user);
     logger.info(`new user created with email ${email}`);
-    return res.status(200).json({ msg: "User created", user, token });
+    res.cookie("token", token, options).status(200).send({ msg: "User created", user, token });
 });
 
 const loginUser = catchAsyncErrors(async (req, res) => {
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-        return res.json({ errors: errors.array() });
+        return res.status(400).json({ errors: errors.array() });
     }
     const { email, password } = req.body;
     const user = await User.findOne({ email });
     if (!user) {
         logger.error(`User Login attempt fail with email ${email}`);
-        return res.json({ errors: [{ msg: "User not found with this email" }] })
+        return res.status(400).json({ errors: [{ msg: "User not found with this email" }] })
     }
     const passwordMatch = await bcrypt.compare(password, user.password);
     if (!passwordMatch) {
         logger.error(`User Login attempt fail with email ${email}`);
-        return res.json({ errors: [{ msg: "wrong username or password" }] })
+        return res.status(400).json({ errors: [{ msg: "wrong username or password" }] })
     }
     const token = createToken(user);
     logger.info(`user loggedIn with email ${email}`);
-    return res.status(200).json({ msg: "User Logged In", user, token })
+    res.cookie("token", token, options).status(200).json({ msg: "User Logged In", user, token });
+});
+
+const userLogout = catchAsyncErrors(async (req, res) => {
+    res.cookie("token", null, {
+        expires: new Date(Date.now()),
+        httpOnly: true
+    });
+    console.log(req.cookies);
+    res.status(200).json({
+        msg: "Logged Out",
+    });
+});
+
+const deleteUser = catchAsyncErrors(async (req, res) => {
+    const response = await User.findOneAndDelete({ email: req.body.eamil });
+    if (!response) {
+        return res.status(400).json({ msg: "User not Found" })
+    }
+    return res.status(200).json({ msg: "User deleted" })
 })
-module.exports = { createUser, loginUser };
+module.exports = { createUser, loginUser, userLogout, deleteUser };

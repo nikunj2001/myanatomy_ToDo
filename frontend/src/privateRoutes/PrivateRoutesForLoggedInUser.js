@@ -10,4 +10,4 @@ const PrivateRoutesForLoggedInUser = (props) => {
     )
 }
 
-export default PrivateRoutesForLoggedInUser
+export default PrivateRoutesForLoggedInUser;

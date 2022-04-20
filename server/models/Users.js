@@ -20,5 +20,4 @@ const UserSchema = new Schema({
         const hash = await bcrypt.hash(password, salt);
         this.password = hash;
     })
-
 module.exports = model('user', UserSchema);

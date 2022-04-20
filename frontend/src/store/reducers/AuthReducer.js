@@ -5,13 +5,14 @@ const initState = {
     loginErrors: [],
     token: '',
     user: '',
-    data: []
+    data: [],
+    isAuthenticated: false
 }
 const verifyToken = token => {
     const decodeToken = jwt_decode(token);
     const expiresIn = new Date(decodeToken.exp * 1000);
     if (new Date() > expiresIn) {
-        localStorage.removeItem('token');
+        localStorage.removeItem("token");
         return null;
     } else {
         return decodeToken;
@@ -22,6 +23,7 @@ if (token) {
     const decoded = verifyToken(token);
     if (decoded) {
         initState.token = token;
+        initState.isAuthenticated = true;
         const { user } = decoded;
         initState.user = user;
     }
@@ -43,16 +45,28 @@ const AuthReducer = (state = initState, action) => {
     } else if (type === "SET_TOKEN") {
         const decoded = verifyToken(payload);
         const { user } = decoded;
-        console.log(decoded);
         return {
             ...state,
             token: payload,
+            isAuthenticated: true,
             user: user,
             loginErrors: [],
             registerError: []
         };
-    } else if (action.type === "LOGOUT") {
-        return { ...state, token: '', user: '' };
+    } else if (type === "CLEAR_TOKEN") {
+        localStorage.getItem("token");
+        return {
+            ...state,
+            token: payload,
+            isAuthenticated: true,
+            user: '',
+            loginErrors: [],
+            registerError: []
+        };
+    }
+    else if (action.type === "LOGOUT") {
+        localStorage.removeItem("token");
+        return { ...state, token: '', user: '', isAuthenticated: false };
     }
     else if (action.type === "SET_DATA") {
         return { ...state, data: payload.data };

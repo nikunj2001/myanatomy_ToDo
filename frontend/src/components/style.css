@@ -102,15 +102,17 @@ td {
   justify-content: center;
   background: #000;
   margin-bottom: 15px;
+  color: #fff;
 }
-.nav-ul {
+.nav ul,.nav-ul {
   display: flex;
   color: #fff;
   justify-content: flex-start;
   list-style: none;
 }
-.nav-ul li {
+.nav ul li,.nav-ul li {
   padding: 10px;
+  font-size: 20px;
   cursor: pointer;
 }
 .active {
@@ -120,6 +122,7 @@ a {
   text-decoration: none;
   color: #fff;
   margin: 15px;
-  /* font-size: 20px; */
+  padding: 20px;
+  font-size: 20px;
   cursor: pointer;
 }

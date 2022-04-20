@@ -10,4 +10,4 @@ const PrivateRoutesForLoggedOut = (props) => {
     )
 }
 
-export default PrivateRoutesForLoggedOut
+export default PrivateRoutesForLoggedOut;

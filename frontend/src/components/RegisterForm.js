@@ -15,11 +15,10 @@ const RegisterForm = () => {
     }
     useEffect(() => {
         if (registerErrors.length > 0) {
-            console.log("Inside");
             registerErrors.map(err => toast.error(err.msg))
             dispatch({ type: "CLOSE_REGISTER_ERRORS" })
         }
-    }, [registerErrors])
+    }, [registerErrors]);
     return (
         <div className='form' >
             <h1>Register Form</h1>

@@ -11,6 +11,8 @@ const registerValidations = [
 ]
 const loginValiations = [
     body('email').trim().not().isEmpty().withMessage('Email is required'),
-    body('password').not().isEmpty().withMessage('Password is required'),
+    body('password').trim().not().isEmpty().withMessage('Password is required'),
 ];
 module.exports = { taskValidations, registerValidations, loginValiations };
+
+

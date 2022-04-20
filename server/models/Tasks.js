@@ -1,25 +1,26 @@
-const {model,Schema} = require("mongoose");
+const { model, Schema } = require("mongoose");
 const bcrypt = require('bcrypt')
 const TaskSchema = new Schema({
-    task:{
-        type:String,
-        required:true
+    task: {
+        type: String,
+        required: true
     },
-    description:{
-        type:String,
-        default:null
+    description: {
+        type: String,
+        default: null
     },
-    status:{
-        type:String,
-        required:true
+    status: {
+        type: String,
+        required: true
     },
-    userId:{
-        type:Schema.Types.ObjectId,
-        ref:'user'
+    userId: {
+        type: Schema.Types.ObjectId,
+        ref: 'user'
     },
-    createdAt:{
-        type:Date,
-        default:Date.now
+    createdAt: {
+        type: Date,
+        default: Date.now
     }
 })
-module.exports = model('task',TaskSchema);
+
+module.exports = model('task', TaskSchema);

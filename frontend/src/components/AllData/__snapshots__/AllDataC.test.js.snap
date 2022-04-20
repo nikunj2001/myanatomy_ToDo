@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllDataC should render my component 1`] = `
+"<Fragment>
+  <table border=\\"1\\" cellPadding=\\"5\\" cellSpacing=\\"5\\" width=\\"75%\\">
+    <thead>
+      <tr>
+        <th>
+          Task
+        </th>
+        <th>
+          Description 
+        </th>
+        <th>
+          Status
+        </th>
+        <th>
+          Change Status
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Task-1
+        </td>
+        <td>
+          Describe
+        </td>
+        <td>
+          pending
+        </td>
+        <td>
+          <button onClick={[Function: onClick]} className=\\"btn\\" id=\\"edit-btn\\">
+            <BsFillPenFill className=\\"btns\\" />
+          </button>
+          <button className=\\"btn\\" onClick={[Function: bound deleteClick]} id=\\"delete-btn\\">
+            <BsTrash className=\\"btns\\" />
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</Fragment>"
+`;

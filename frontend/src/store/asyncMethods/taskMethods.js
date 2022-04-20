@@ -1,99 +1,59 @@
 import axios from "axios";
+import { userLogout } from "./AuthMethods";
 
-const tokenPresent=()=>{
-    const token =localStorage.getItem('token');
-    if(token) return true;
-    return false;
+axios.defaults.withCredentials = true;
+const tokenExists = () => {
+    const token = localStorage.getItem("token");
+    if (token) {
+        return true;
+    } else {
+        return false;
+    }
 }
 
-// export const fetchTasks=()=>{
-//     return async(dispatch,getState)=>{
-//          const {
-// 			AuthReducer: { token }
-//         }=getState();
-//         const config = {
-// 			headers: {
-//                 Authorization : `Bearer ${token}`
-// 			},
-// 		};
-//         dispatch({type:"SET_LOADER"});
-//         try {
-//             const response = await axios.get("getTasks",config);
-//             dispatch({type:"SET_DATA",payload:response.data.tasks});
-//             dispatch({type:"CLOSE_LOADER"});
-//         } catch (error) {
-//         dispatch({type:"CLOSE_LOADER"});
-//         console.log(error);
-//         }
-//     }
-// }
-export const createTask=(taskData,userId)=>{
-    return async(dispatch,getState)=>{
-         const {
-			AuthReducer: { token }
-        }=getState();
-        const config = {
-			headers: {
-                Authorization : `Bearer ${token}`
-			},
-		};
-        dispatch({type:"SET_LOADER"});
+export const createTask = (taskData, userId) => {
+    return async (dispatch, getState) => {
+        if (!tokenExists()) {
+            return dispatch(userLogout());
+        }
+        dispatch({ type: "SET_LOADER" });
         try {
-            taskData['userId']=userId;
-            const response = await axios.post("uploadTask",taskData,config);
-            dispatch({type:"SET_TASK",payload:"new task"});
+            taskData['userId'] = userId;
+            await axios.post("uploadTask", taskData);
+            dispatch({ type: "SET_TASK", payload: "new task" });
         } catch (error) {
-        dispatch({type:"CLOSE_LOADER"});
-        console.log(error);
+            dispatch({ type: "SET_TASK_ERRORS", payload: error.response.data.errors });
+            dispatch({ type: "CLOSE_LOADER" });
         }
     }
 }
-export const deleteTask=(id)=>{
-    return async(dispatch,getState)=>{
-        if(!tokenPresent()){
-            dispatch({type:"LOGOUT"});
+export const deleteTask = (id) => {
+    return async (dispatch, getState) => {
+        if (!tokenExists()) {
+            return dispatch(userLogout());
         }
-        dispatch({type:"SET_LOADER"});
+        dispatch({ type: "SET_LOADER" });
         try {
-             const {
-			AuthReducer: { token }
-        }=getState();
-        const config = {
-			headers: {
-                // Authorization : `Bearer ${token}`
-                Authorization : `Bearer ${localStorage.getItem('token')}`
-			},
-		};
-            const response = await axios.delete(`deleteTask/${id}`,config);
-            dispatch({type:"SET_DELETE",payload:"delete task"});
+            await axios.delete(`deleteTask/${id}`);
+            dispatch({ type: "SET_DELETE", payload: "delete task" });
         } catch (error) {
-        dispatch({type:"CLOSE_LOADER"});
-            console.log(error);
+            dispatch({ type: "CLOSE_LOADER" });
         }
     }
 }
-export const editTask=(taskData,id)=>{
-    return async(dispatch,getState)=>{
-         if(!tokenPresent()){
-            dispatch({type:"LOGOUT"});
+export const editTask = (taskData, id) => {
+    return async (dispatch, getState) => {
+        if (!tokenExists()) {
+            return dispatch(userLogout());
         }
-         const {
-			AuthReducer: { token }
-        }=getState();
-        const config = {
-			headers: {
-                Authorization : `Bearer ${token}`
-			},
-		};
-        dispatch({type:"SET_LOADER"});
+        dispatch({ type: "SET_LOADER" });
         try {
-            const response = await axios.put(`/updateTaskDetails/${id}`,taskData,config);
-            console.log(typeof response.data);
-            dispatch({type:"SET_TASK",payload:"update task"});
-            dispatch({type:"CLOSE_LOADER"});
+            await axios.put(`/updateTaskDetails/${id}`, taskData);
+            dispatch({ type: "SET_TASK", payload: "update task" });
+            dispatch({ type: "CLOSE_LOADER" });
         } catch (error) {
-        dispatch({type:"CLOSE_LOADER"});
-        console.log(error.message);
+            dispatch({ type: "CLOSE_LOADER" });
+            console.log(error.message);
         }
     }
 }

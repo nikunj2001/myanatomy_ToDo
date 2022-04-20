@@ -9,16 +9,25 @@ const bodyParser = require('body-parser');
 const connect = require('./config/db');
 const errorMiddleWare = require("./middleware/error");
 const logger = require("./config/logger");
-connect();
+const cookieParser = require('cookie-parser');
+
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors({
+    origin: `http://localhost:3000`,
+    credentials: true
+}));
+app.use(cookieParser())
 app.use("/", taskRoutes);
 app.use("/", authRoutes);
 app.use(errorMiddleWare);
+connect();
+
+
 if (!module.parent) {
     app.listen(process.env.PORT, () => {
         logger.info(`Server running on Port ${process.env.PORT}`);
         console.log(`Server running on port ${process.env.PORT}!`);
     });
 }
+
 module.exports = app;
