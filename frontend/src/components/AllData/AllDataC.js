@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 import PropTypes from "prop-types";
 // import { deleteTask } from '../store/asyncMethods/taskMethods';
 import { BsFillPenFill, BsTrash } from "react-icons/bs";
-
 class AllDataC extends Component {
   constructor(props) {
     super(props);
@@ -26,24 +25,24 @@ class AllDataC extends Component {
       state: { task }
     });
   }
+  deleteClick = (task) => {
+    this.props.deleteTask(task._id);
+  }
   render() {
 
-    const deleteClick = (task) => {
-      this.props.deleteTask(task._id);
-    }
     return (
       <>
         {this.state.task.length > 0 ?
           <table border='1' cellPadding='5' cellSpacing='5' width="75%" >
-            <thead>
-              <tr>
+            <thead key="thead">
+              <tr key="trow" >
                 <th>Task</th>
                 <th>Description </th>
                 <th>Status</th>
                 <th>Change Status</th>
               </tr>
             </thead>
-            <tbody>
+            <tbody key="tbody">
               {this.state.task.map(t => (
                 <tr key={t._id} >
                   <td>{t.task}</td>
@@ -52,7 +51,7 @@ class AllDataC extends Component {
                   <td>
                     <button onClick={() => this.clickEdit(t)} className='btn' id='edit-btn'  ><BsFillPenFill className='btns' />
                     </button>
-                    <button className='btn' onClick={deleteClick.bind(this, t)} id='delete-btn' ><BsTrash className='btns' /></button></td>
+                    <button className='btn' onClick={() => this.deleteClick(t)} id='delete-btn' ><BsTrash className='btns' /></button></td>
                 </tr>
               ))
               }
@@ -63,15 +62,9 @@ class AllDataC extends Component {
     )
   }
 }
-// const mapDispatchToProps = (dispatch) => {
-//   return {
-//     deleteTask: (id) => dispatch(deleteTask(id)),
-//   }
-// }
-
 AllDataC.propTypes = {
   deleteTask: PropTypes.func.isRequired,
-  data: PropTypes.object.isRequired
+  data: PropTypes.array.isRequired
 }
 
 AllDataC.defaultProps = {

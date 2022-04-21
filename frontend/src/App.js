@@ -1,12 +1,12 @@
 import './App.css';
-import Home from './components/Home';
+import Home from './components/Home/';
 import { BrowserRouter as Router, Switch, Route, withRouter } from "react-router-dom";
-import EditTask from './components/EditTask';
-import Nav from './components/Nav';
+import EditTask from './components/EditTask/';
+import Nav from './components/Nav/';
 import { connect } from 'react-redux';
 import PrivateRoutesForLoggedOut from './privateRoutes/PrivateRoutesForLoggedOut.js';
-import LoginForm from './components/LoginForm.js';
-import RegisterForm from './components/RegisterForm.js';
+import LoginForm from './components/LoginForm/';
+import RegisterForm from './components/RegisterForm/RegisterForm';
 import PrivateRoutesForLoggedInUser from './privateRoutes/PrivateRoutesForLoggedInUser.js';
 import { useEffect } from 'react';
 import Store from './store';

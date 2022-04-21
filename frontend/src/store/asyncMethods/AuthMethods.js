@@ -12,7 +12,7 @@ export const userRegister = (state) => {
         dispatch({ type: "SET_LOADER" });
         try {
             const { data } = await axios.post("http://localhost:5000/registerUser", state, config);
-            localStorage.setItem("isAuthenticated", true);
+            localStorage.setItem("token", data.token);
             dispatch({ type: "SET_TOKEN", payload: data.token })
             dispatch({ type: "CLOSE_LOADER" });
         } catch (error) {

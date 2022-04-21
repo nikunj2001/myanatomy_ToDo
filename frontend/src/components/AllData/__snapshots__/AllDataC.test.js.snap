@@ -34,7 +34,7 @@ exports[`AllDataC should render my component 1`] = `
           <button onClick={[Function: onClick]} className=\\"btn\\" id=\\"edit-btn\\">
             <BsFillPenFill className=\\"btns\\" />
           </button>
-          <button className=\\"btn\\" onClick={[Function: bound deleteClick]} id=\\"delete-btn\\">
+          <button className=\\"btn\\" onClick={[Function: onClick]} id=\\"delete-btn\\">
             <BsTrash className=\\"btns\\" />
           </button>
         </td>

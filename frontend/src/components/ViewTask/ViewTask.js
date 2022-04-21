@@ -2,9 +2,9 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux';
 import { useHistory } from "react-router-dom";
-import StatusData from './StatusData';
-import AllDataC from './AllData/';
-import { userLogout } from "../store/asyncMethods/AuthMethods"
+import StatusData from '../StatusData';
+import AllDataC from '../AllData';
+import { userLogout } from "../../store/asyncMethods/AuthMethods"
 import { toast, Toaster } from "react-hot-toast";
 const ViewTask = () => {
     const [editTask, setEditTask] = useState(false);
@@ -22,6 +22,7 @@ const ViewTask = () => {
             const res = await axios.get(`/getTasks/${user._id}`);
             setData(res.data.tasks);
         } catch (error) {
+            console.log(error);
             toast.error("Please Login Again");
             dispatch({ type: "CLEAR_TOKEN" });
         }

@@ -57,7 +57,6 @@ const userLogout = catchAsyncErrors(async (req, res) => {
         expires: new Date(Date.now()),
         httpOnly: true
     });
-    console.log(req.cookies);
     res.status(200).json({
         msg: "Logged Out",
     });

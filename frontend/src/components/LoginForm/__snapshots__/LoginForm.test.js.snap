@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateTask should render my component 1`] = `
+"<div className=\\"form\\">
+  <h1>
+    Login Form
+  </h1>
+  <Toaster position=\\"top-center\\" reverseOrder={false} />
+  <form onSubmit={[Function: handleSubmit]}>
+    <input type=\\"text\\" placeholder=\\"Email\\" name=\\"email\\" onChange={[Function: handleChange]} />
+    <input type=\\"password\\" placeholder=\\"Password\\" name=\\"password\\" onChange={[Function: handleChange]} />
+    <input type=\\"submit\\" placeholder=\\"Login\\" />
+  </form>
+</div>"
+`;
+
+exports[`LoginForm should render my component 1`] = `
+"<div className=\\"form\\">
+  <h1>
+    Login Form
+  </h1>
+  <Toaster position=\\"top-center\\" reverseOrder={false} />
+  <form onSubmit={[Function: handleSubmit]}>
+    <input type=\\"text\\" placeholder=\\"Email\\" name=\\"email\\" onChange={[Function: handleChange]} />
+    <input type=\\"password\\" placeholder=\\"Password\\" name=\\"password\\" onChange={[Function: handleChange]} />
+    <input type=\\"submit\\" placeholder=\\"Login\\" />
+  </form>
+</div>"
+`;

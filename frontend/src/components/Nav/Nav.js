@@ -1,8 +1,8 @@
 import React from 'react'
-import "./style.css"
+import "../style.css"
 import { Link } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
-import { userLogout } from '../store/asyncMethods/AuthMethods';
+import { userLogout } from '../../store/asyncMethods/AuthMethods';
 const Nav = () => {
   const dispatch = useDispatch();
   const { user } = useSelector(state => state.AuthReducer);

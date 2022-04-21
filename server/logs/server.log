@@ -5509,3 +5509,306 @@ info: Apr-20-2022 20:46:52 : Server running on Port 5000
 info: Apr-20-2022 20:46:52 : DB Connected
 info: Apr-20-2022 20:47:05 : Server running on Port 5000
 info: Apr-20-2022 20:47:05 : DB Connected
+info: Apr-20-2022 20:51:52 : Server running on Port 5000
+info: Apr-20-2022 20:51:52 : DB Connected
+info: Apr-20-2022 22:08:00 : Server running on Port 5000
+info: Apr-20-2022 22:08:00 : DB Connected
+info: Apr-20-2022 22:09:41 : 16 Tasks Fetched
+info: Apr-20-2022 22:09:50 : Task Updated with Task ID- 625ffebd1163d1997fc5283e while Updating
+info: Apr-20-2022 22:09:50 : 16 Tasks Fetched
+info: Apr-20-2022 22:09:56 : Task DELETED with  ID- 626001771163d1997fc5286b
+info: Apr-20-2022 22:09:56 : 15 Tasks Fetched
+info: Apr-20-2022 22:09:58 : Task DELETED with  ID- 625ffebd1163d1997fc5283e
+info: Apr-20-2022 22:09:58 : 14 Tasks Fetched
+info: Apr-20-2022 22:44:43 : 14 Tasks Fetched
+info: Apr-20-2022 22:44:43 : 14 Tasks Fetched
+info: Apr-20-2022 22:44:52 : 14 Tasks Fetched
+info: Apr-20-2022 22:44:54 : Task Created with fghjk 
+info: Apr-20-2022 22:44:54 : 15 Tasks Fetched
+info: Apr-20-2022 22:44:56 : Task Created with fdghjkl 
+info: Apr-20-2022 22:44:56 : 16 Tasks Fetched
+info: Apr-20-2022 22:44:57 : Task Created with dfghjkl; 
+info: Apr-20-2022 22:44:58 : 17 Tasks Fetched
+info: Apr-20-2022 22:44:59 : Task Created with dgfhjkl 
+info: Apr-20-2022 22:44:59 : 18 Tasks Fetched
+info: Apr-20-2022 22:44:59 : 18 Tasks Fetched
+info: Apr-20-2022 22:45:02 : Task DELETED with  ID- 62603f91f20254ab0b6def3e
+info: Apr-20-2022 22:45:02 : 17 Tasks Fetched
+info: Apr-20-2022 22:45:06 : Task Created with sdfghjkl; 
+info: Apr-20-2022 22:45:06 : 18 Tasks Fetched
+info: Apr-20-2022 23:27:03 : Server running on Port 5000
+info: Apr-20-2022 23:27:03 : DB Connected
+info: Apr-20-2022 23:27:57 : 18 Tasks Fetched
+info: Apr-20-2022 23:38:27 : 18 Tasks Fetched
+info: Apr-20-2022 23:38:56 : 18 Tasks Fetched
+info: Apr-20-2022 23:38:56 : 18 Tasks Fetched
+info: Apr-20-2022 23:39:00 : 18 Tasks Fetched
+info: Apr-20-2022 23:51:08 : 18 Tasks Fetched
+info: Apr-20-2022 23:51:08 : 18 Tasks Fetched
+info: Apr-20-2022 23:51:49 : 18 Tasks Fetched
+info: Apr-20-2022 23:51:53 : Task Created with adadasdada 
+info: Apr-20-2022 23:51:53 : 19 Tasks Fetched
+info: Apr-20-2022 23:51:57 : Task Created with nikunj 
+info: Apr-20-2022 23:51:58 : 20 Tasks Fetched
+info: Apr-21-2022 08:47:57 : Server running on Port 5000
+info: Apr-21-2022 08:47:58 : DB Connected
+info: Apr-21-2022 08:48:10 : 20 Tasks Fetched
+info: Apr-21-2022 09:06:15 : 20 Tasks Fetched
+info: Apr-21-2022 09:06:19 : Task Updated with Task ID- 62604f4510d04966d8754bd4 while Updating
+info: Apr-21-2022 09:06:19 : 20 Tasks Fetched
+info: Apr-21-2022 09:21:59 : 20 Tasks Fetched
+info: Apr-21-2022 09:22:06 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:22:06 : 20 Tasks Fetched
+info: Apr-21-2022 09:22:08 : Task Created with sdad 
+info: Apr-21-2022 09:22:08 : 21 Tasks Fetched
+info: Apr-21-2022 09:22:09 : Task Created with aas 
+info: Apr-21-2022 09:22:09 : 22 Tasks Fetched
+info: Apr-21-2022 09:22:12 : Task DELETED with  ID- 6260d4e9fad4690082f0864b
+info: Apr-21-2022 09:22:12 : 21 Tasks Fetched
+info: Apr-21-2022 09:22:14 : Task DELETED with  ID- 6260d4e8fad4690082f08645
+info: Apr-21-2022 09:22:14 : 20 Tasks Fetched
+info: Apr-21-2022 09:25:16 : 20 Tasks Fetched
+info: Apr-21-2022 09:31:37 : 20 Tasks Fetched
+info: Apr-21-2022 09:31:37 : 20 Tasks Fetched
+info: Apr-21-2022 09:31:51 : Task Updated with Task ID- 62604f4110d04966d8754bce while Updating
+info: Apr-21-2022 09:31:52 : 20 Tasks Fetched
+info: Apr-21-2022 09:36:51 : 20 Tasks Fetched
+info: Apr-21-2022 09:40:10 : DB Connected
+info: Apr-21-2022 09:40:10 : new user created with email trying@gmail.com
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:11 : Task Created with Task-Tests 
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:11 : 20 Tasks Fetched
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:11 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : Task Updated with Task ID- 6260d923646836c58ae23887 while Updating
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:40:12 : Task DELETED with  ID- 6260d923646836c58ae23887
+info: Apr-21-2022 09:40:12 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+
+
+info: Apr-21-2022 09:41:28 : 20 Tasks Fetched
+info: Apr-21-2022 09:41:33 : 20 Tasks Fetched
+info: Apr-21-2022 09:42:04 : 20 Tasks Fetched
+info: Apr-21-2022 09:46:07 : 20 Tasks Fetched
+info: Apr-21-2022 09:46:28 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:46:28 : 20 Tasks Fetched
+info: Apr-21-2022 09:46:57 : Server running on Port 5000
+info: Apr-21-2022 09:46:57 : DB Connected
+info: Apr-21-2022 09:46:57 : 20 Tasks Fetched
+info: Apr-21-2022 09:47:09 : Server running on Port 5000
+info: Apr-21-2022 09:47:09 : DB Connected
+info: Apr-21-2022 09:47:12 : 20 Tasks Fetched
+info: Apr-21-2022 09:47:21 : Server running on Port 5000
+info: Apr-21-2022 09:47:21 : DB Connected
+info: Apr-21-2022 09:48:02 : 20 Tasks Fetched
+info: Apr-21-2022 09:48:33 : 20 Tasks Fetched
+info: Apr-21-2022 09:50:43 : 20 Tasks Fetched
+info: Apr-21-2022 09:51:30 : 20 Tasks Fetched
+info: Apr-21-2022 09:52:02 : 20 Tasks Fetched
+info: Apr-21-2022 09:52:27 : 20 Tasks Fetched
+info: Apr-21-2022 09:53:07 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 09:53:08 : 20 Tasks Fetched
+info: Apr-21-2022 09:53:12 : Task Created with DFGHJKL 
+info: Apr-21-2022 09:53:17 : 21 Tasks Fetched
+info: Apr-21-2022 09:53:39 : 21 Tasks Fetched
+info: Apr-21-2022 09:56:37 : 21 Tasks Fetched
+info: Apr-21-2022 09:56:38 : 21 Tasks Fetched
+info: Apr-21-2022 09:56:40 : 21 Tasks Fetched
+info: Apr-21-2022 09:57:03 : Task Created with ertyuio 
+info: Apr-21-2022 09:57:03 : 22 Tasks Fetched
+info: Apr-21-2022 09:57:10 : Task Created with rtyuiop 
+info: Apr-21-2022 09:57:10 : 23 Tasks Fetched
+info: Apr-21-2022 09:57:18 : Task Updated with Task ID- 6260dd176cd3b41e335edc56 while Updating
+info: Apr-21-2022 09:57:19 : 23 Tasks Fetched
+info: Apr-21-2022 09:57:24 : Task DELETED with  ID- 6260dc306cd3b41e335edc44
+info: Apr-21-2022 09:57:25 : 22 Tasks Fetched
+info: Apr-21-2022 09:57:26 : Task DELETED with  ID- 62604f4510d04966d8754bd4
+info: Apr-21-2022 09:57:26 : 21 Tasks Fetched
+info: Apr-21-2022 09:57:27 : Task DELETED with  ID- 62604f4110d04966d8754bce
+info: Apr-21-2022 09:57:27 : 20 Tasks Fetched
+info: Apr-21-2022 09:57:27 : Task DELETED with  ID- 62603f9af20254ab0b6def52
+info: Apr-21-2022 09:57:28 : 19 Tasks Fetched
+info: Apr-21-2022 09:57:46 : 19 Tasks Fetched
+info: Apr-21-2022 09:58:06 : 19 Tasks Fetched
+info: Apr-21-2022 09:58:34 : 19 Tasks Fetched
+info: Apr-21-2022 09:58:40 : 19 Tasks Fetched
+info: Apr-21-2022 09:59:29 : 19 Tasks Fetched
+info: Apr-21-2022 09:59:38 : 19 Tasks Fetched
+info: Apr-21-2022 10:00:12 : Task Created with Task-5 
+info: Apr-21-2022 10:00:12 : 20 Tasks Fetched
+info: Apr-21-2022 10:00:17 : Task Created with Task-5 
+info: Apr-21-2022 10:00:18 : 21 Tasks Fetched
+info: Apr-21-2022 10:00:26 : Task DELETED with  ID- 62603f8ef20254ab0b6def32
+info: Apr-21-2022 10:00:26 : 20 Tasks Fetched
+info: Apr-21-2022 10:00:27 : Task DELETED with  ID- 62603f90f20254ab0b6def38
+info: Apr-21-2022 10:00:27 : 19 Tasks Fetched
+info: Apr-21-2022 10:00:28 : Task DELETED with  ID- 62603f93f20254ab0b6def44
+info: Apr-21-2022 10:00:28 : 18 Tasks Fetched
+info: Apr-21-2022 10:00:29 : Task DELETED with  ID- 6260dd176cd3b41e335edc56
+info: Apr-21-2022 10:00:29 : 17 Tasks Fetched
+info: Apr-21-2022 10:00:29 : Task DELETED with  ID- 6260dd1e6cd3b41e335edc5c
+info: Apr-21-2022 10:00:30 : 16 Tasks Fetched
+info: Apr-21-2022 10:00:30 : Task DELETED with  ID- 6260ddd46cd3b41e335edc8d
+info: Apr-21-2022 10:00:30 : 15 Tasks Fetched
+info: Apr-21-2022 10:00:31 : Task DELETED with  ID- 6260ddd96cd3b41e335edc93
+info: Apr-21-2022 10:00:31 : 14 Tasks Fetched
+info: Apr-21-2022 10:00:45 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:00:45 : 14 Tasks Fetched
+info: Apr-21-2022 10:01:19 : 14 Tasks Fetched
+info: Apr-21-2022 10:01:20 : 14 Tasks Fetched
+info: Apr-21-2022 10:01:37 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:01:37 : 14 Tasks Fetched
+info: Apr-21-2022 10:01:41 : 14 Tasks Fetched
+info: Apr-21-2022 10:02:02 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:02:02 : 14 Tasks Fetched
+info: Apr-21-2022 10:02:10 : Task Created with Task-5 
+info: Apr-21-2022 10:02:10 : 15 Tasks Fetched
+info: Apr-21-2022 10:02:14 : Task Updated with Task ID- 6260de4a6cd3b41e335edcd4 while Updating
+info: Apr-21-2022 10:02:14 : 15 Tasks Fetched
+info: Apr-21-2022 10:02:16 : Task DELETED with  ID- 6260de4a6cd3b41e335edcd4
+info: Apr-21-2022 10:02:17 : 14 Tasks Fetched
+info: Apr-21-2022 10:02:58 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:02:59 : 14 Tasks Fetched
+info: Apr-21-2022 10:03:09 : 14 Tasks Fetched
+info: Apr-21-2022 10:03:53 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:03:53 : 14 Tasks Fetched
+info: Apr-21-2022 10:04:09 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:04:09 : 14 Tasks Fetched
+info: Apr-21-2022 10:05:52 : 14 Tasks Fetched
+info: Apr-21-2022 10:05:59 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:05:59 : 14 Tasks Fetched
+info: Apr-21-2022 10:06:01 : Task Created with asdfghjkl 
+info: Apr-21-2022 10:06:02 : 15 Tasks Fetched
+
+info: Apr-21-2022 10:11:43 : Server running on Port 5000
+info: Apr-21-2022 10:11:43 : DB Connected
+
+info: Apr-21-2022 10:13:53 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:13:53 : 15 Tasks Fetched
+info: Apr-21-2022 10:13:59 : Task Created with dfghjkl 
+info: Apr-21-2022 10:13:59 : Task Created with 4 
+info: Apr-21-2022 10:13:59 : 17 Tasks Fetched
+info: Apr-21-2022 10:14:01 : Task Created with 4 
+info: Apr-21-2022 10:14:02 : 18 Tasks Fetched
+info: Apr-21-2022 10:14:03 : Task Created with fgfhjkl 
+info: Apr-21-2022 10:14:04 : 19 Tasks Fetched
+info: Apr-21-2022 10:14:06 : Task DELETED with  ID- 6260e113664f5eeb32376dd6
+info: Apr-21-2022 10:14:06 : 18 Tasks Fetched
+info: Apr-21-2022 10:14:07 : Task DELETED with  ID- 6260e111664f5eeb32376dd0
+info: Apr-21-2022 10:14:07 : 17 Tasks Fetched
+info: Apr-21-2022 10:14:08 : Task DELETED with  ID- 6260e10f664f5eeb32376dca
+info: Apr-21-2022 10:14:08 : 16 Tasks Fetched
+info: Apr-21-2022 10:14:41 : 16 Tasks Fetched
+
+info: Apr-21-2022 10:15:02 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:15:02 : 16 Tasks Fetched
+info: Apr-21-2022 10:15:41 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:15:41 : 16 Tasks Fetched
+
+info: Apr-21-2022 10:16:03 : new user created with email a5s@gmail.com
+info: Apr-21-2022 10:16:23 : user loggedIn with email a5s@gmail.com
+info: Apr-21-2022 10:16:23 : 0 Tasks Fetched
+info: Apr-21-2022 10:16:44 : new user created with email ayush@gmail.com
+info: Apr-21-2022 10:17:55 : new user created with email loiin@gmail.com
+info: Apr-21-2022 10:18:43 : Server running on Port 5000
+info: Apr-21-2022 10:18:43 : DB Connected
+info: Apr-21-2022 10:19:17 : Server running on Port 5000
+info: Apr-21-2022 10:19:17 : DB Connected
+info: Apr-21-2022 10:19:19 : new user created with email asdasda@gmail.com
+info: Apr-21-2022 10:19:56 : Server running on Port 5000
+info: Apr-21-2022 10:19:56 : DB Connected
+info: Apr-21-2022 10:20:12 : Server running on Port 5000
+info: Apr-21-2022 10:20:12 : DB Connected
+info: Apr-21-2022 10:21:30 : new user created with email poee@gmail.com
+info: Apr-21-2022 10:21:58 : new user created with email asdadasdasdfa@gmail.com
+info: Apr-21-2022 10:23:09 : new user created with email lopp@gmail.com
+info: Apr-21-2022 10:23:10 : 0 Tasks Fetched
+info: Apr-21-2022 10:23:23 : Task Created with dfghjkl; 
+info: Apr-21-2022 10:23:24 : 1 Tasks Fetched
+info: Apr-21-2022 10:23:40 : 1 Tasks Fetched
+info: Apr-21-2022 10:24:20 : Task Updated with Task ID- 6260e343ffdcd6d7fc38ca83 while Updating
+info: Apr-21-2022 10:24:20 : 1 Tasks Fetched
+info: Apr-21-2022 10:24:28 : Task Updated with Task ID- 6260e343ffdcd6d7fc38ca83 while Updating
+info: Apr-21-2022 10:24:28 : 1 Tasks Fetched
+info: Apr-21-2022 10:24:43 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:24:43 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:47 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:48 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:48 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:48 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:49 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:49 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:49 : 16 Tasks Fetched
+info: Apr-21-2022 10:24:49 : 16 Tasks Fetched
+info: Apr-21-2022 10:25:50 : new user created with email poiuytr@gmail.com
+info: Apr-21-2022 10:25:51 : 0 Tasks Fetched
+info: Apr-21-2022 10:25:54 : Task Created with dfghjkl; 
+info: Apr-21-2022 10:25:55 : 1 Tasks Fetched
+info: Apr-21-2022 10:25:56 : Task Created with yuiop[ 
+info: Apr-21-2022 10:25:56 : 2 Tasks Fetched
+info: Apr-21-2022 10:25:58 : Task Created with poiuyt 
+info: Apr-21-2022 10:25:58 : 3 Tasks Fetched
+info: Apr-21-2022 10:30:06 : 3 Tasks Fetched
+info: Apr-21-2022 10:30:08 : Task Created with dfghjkl; 
+info: Apr-21-2022 10:30:08 : 4 Tasks Fetched
+info: Apr-21-2022 10:30:09 : Task Created with dfghjkl 
+info: Apr-21-2022 10:30:09 : 5 Tasks Fetched
+info: Apr-21-2022 10:30:10 : Task Created with dfghjbklm;; 
+info: Apr-21-2022 10:30:10 : 6 Tasks Fetched
+info: Apr-21-2022 10:30:11 : Task Created with xdfcglkm; 
+info: Apr-21-2022 10:30:11 : 7 Tasks Fetched
+info: Apr-21-2022 10:30:12 : Task Created with ooiuytrddgfhjk; 
+info: Apr-21-2022 10:30:12 : 8 Tasks Fetched
+info: Apr-21-2022 10:30:13 : Task Created with fgd;fsfdg 
+info: Apr-21-2022 10:30:13 : 9 Tasks Fetched
+info: Apr-21-2022 10:30:13 : Task Created with sd 
+info: Apr-21-2022 10:30:13 : Task Created with fsdf 
+info: Apr-21-2022 10:30:14 : 11 Tasks Fetched
+info: Apr-21-2022 10:30:14 : Task Created with sf 
+info: Apr-21-2022 10:30:14 : Task Created with sf 
+info: Apr-21-2022 10:30:14 : 13 Tasks Fetched
+info: Apr-21-2022 10:30:14 : Task Created with s 
+info: Apr-21-2022 10:30:14 : Task Created with sdf 
+info: Apr-21-2022 10:30:14 : 15 Tasks Fetched
+info: Apr-21-2022 10:30:14 : Task Created with sf 
+info: Apr-21-2022 10:30:14 : Task Created with sdf 
+info: Apr-21-2022 10:30:15 : 17 Tasks Fetched
+info: Apr-21-2022 10:30:15 : Task Created with s 
+info: Apr-21-2022 10:30:15 : 18 Tasks Fetched
+
+info: Apr-21-2022 10:31:38 : user loggedIn with email nikunj.gupta_cs19@gla.ac.in
+info: Apr-21-2022 10:31:39 : 16 Tasks Fetched
+info: Apr-21-2022 10:31:47 : Task Created with task-6 
+info: Apr-21-2022 10:31:48 : 17 Tasks Fetched
+info: Apr-21-2022 10:31:59 : Task Updated with Task ID- 6260e53bffdcd6d7fc38cb23 while Updating
+info: Apr-21-2022 10:32:00 : 17 Tasks Fetched
+info: Apr-21-2022 10:32:06 : Task Updated with Task ID- 6260e53bffdcd6d7fc38cb23 while Updating
+info: Apr-21-2022 10:32:07 : 17 Tasks Fetched
+info: Apr-21-2022 10:32:10 : Task DELETED with  ID- 6260e53bffdcd6d7fc38cb23
+info: Apr-21-2022 10:32:11 : 16 Tasks Fetched
+info: Apr-21-2022 10:33:22 : Server running on Port 5000
+info: Apr-21-2022 10:33:22 : DB Connected
+info: Apr-21-2022 10:33:38 : Server running on Port 5000
+info: Apr-21-2022 10:33:38 : DB Connected
+info: Apr-21-2022 10:33:43 : Server running on Port 5000
+info: Apr-21-2022 10:33:43 : DB Connected

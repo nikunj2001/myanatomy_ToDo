@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateTask should render my component 1`] = `
+"<div className=\\"form\\">
+  <form onSubmit={[Function: updateForm]}>
+    <Toaster position=\\"top-center\\" reverseOrder={false} />
+    <div className=\\"form__control\\">
+      <input value=\\"Task-1\\" onChange={[Function: handleChange]} type=\\"text\\" name=\\"task\\" placeholder=\\"Add a Task...\\" />
+    </div>
+    <div className=\\"form__control\\">
+      <input type=\\"text\\" name=\\"description\\" value=\\"Description\\" onChange={[Function: handleChange]} placeholder=\\"Description\\" />
+    </div>
+    <div className=\\"form__control\\">
+      <select name=\\"status\\" value=\\"pending\\" onChange={[Function: statusChange]}>
+        <option value=\\"pending\\">
+          Pending
+        </option>
+        <option value=\\"under-process\\">
+          Under Process
+        </option>
+        <option value=\\"completed\\">
+          Completed
+        </option>
+      </select>
+    </div>
+    <div className=\\"form__control\\">
+      <input type=\\"submit\\" className=\\"btn btn-default\\" value=\\"Update Task\\" />
+    </div>
+  </form>
+</div>"
+`;
+
+exports[`EditTask should render my component 1`] = `
+"<div className=\\"form\\">
+  <form onSubmit={[Function: updateForm]}>
+    <Toaster position=\\"top-center\\" reverseOrder={false} />
+    <div className=\\"form__control\\">
+      <input value=\\"Task-1\\" onChange={[Function: handleChange]} type=\\"text\\" name=\\"task\\" placeholder=\\"Add a Task...\\" />
+    </div>
+    <div className=\\"form__control\\">
+      <input type=\\"text\\" name=\\"description\\" value=\\"Description\\" onChange={[Function: handleChange]} placeholder=\\"Description\\" />
+    </div>
+    <div className=\\"form__control\\">
+      <select name=\\"status\\" value=\\"pending\\" onChange={[Function: statusChange]}>
+        <option value=\\"pending\\">
+          Pending
+        </option>
+        <option value=\\"under-process\\">
+          Under Process
+        </option>
+        <option value=\\"completed\\">
+          Completed
+        </option>
+      </select>
+    </div>
+    <div className=\\"form__control\\">
+      <input type=\\"submit\\" className=\\"btn btn-default\\" value=\\"Update Task\\" />
+    </div>
+  </form>
+</div>"
+`;

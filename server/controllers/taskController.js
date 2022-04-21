@@ -38,7 +38,6 @@ const updateTaskDetails = catchAsyncErrors(async (req, res, next) => {
     const id = req.params.id;
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
-        console.log(errors);
         return res.json({ errors: errors.array() });
     }
     const oldTask = await Tasks.findByIdAndUpdate(id, { $set: req.body });

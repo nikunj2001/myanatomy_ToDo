@@ -1,13 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import { useDispatch, useSelector } from "react-redux"
-import { userLogin } from '../store/asyncMethods/AuthMethods';
+import { userLogin } from '../../store/asyncMethods/AuthMethods';
 import { Toaster, toast } from "react-hot-toast"
-import Store from '../store/'
+import Store from '../../store/'
 
 const LoginForm = () => {
-    console.log();
     const [state, setState] = useState({ email: '', password: '' });
-    const dispatch = useDispatch();
     const { loginErrors } = Store.getState().AuthReducer;
     const handleChange = e => {
         setState({ ...state, [e.target.name]: e.target.value });
@@ -19,7 +16,7 @@ const LoginForm = () => {
     useEffect(() => {
         if (loginErrors.length > 0) {
             loginErrors.map(err => toast.error(err.msg))
-            dispatch({ type: "CLOSE_LOGIN_ERRORS" })
+            Store.dispatch({ type: "CLOSE_LOGIN_ERRORS" })
         }
     }, [loginErrors]);
     return (
@@ -38,4 +35,4 @@ const LoginForm = () => {
     )
 }
 
-export default LoginForm
+export default LoginForm;
